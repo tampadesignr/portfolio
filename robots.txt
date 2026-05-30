@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rudytrnka.com/sitemap.xml
