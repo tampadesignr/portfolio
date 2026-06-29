@@ -5,11 +5,29 @@
     "home_page_url": "https://rudytrnka.com",
     "feed_url": "https://rudytrnka.com/feed.json",
     "user_comment": "",
-    "icon": "https://rudytrnka.com/media/website/rt_logo_v2.png",
+    "icon": "https://rudytrnka.com/media/website/image00.jpg",
     "author": {
         "name": "Rudy"
     },
     "items": [
+        {
+            "id": "https://rudytrnka.com/carrie-crazy-crawls.html",
+            "url": "https://rudytrnka.com/carrie-crazy-crawls.html",
+            "title": "Carrie Crazy Crawls",
+            "summary": "The client wanted a fun logo that represented her and the business&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/2/gallery/CARRIE_LOGO-whitebg.png\" data-size=\"371x164\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/2/gallery/CARRIE_LOGO-whitebg-thumbnail.png\" alt=\"\" width=\"371\" height=\"164\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/2/gallery/1logo.jpg\" data-size=\"474x647\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/2/gallery/1logo-thumbnail.jpg\" alt=\"\" width=\"474\" height=\"647\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/2/gallery/2logo.jpg\" data-size=\"553x654\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/2/gallery/2logo-thumbnail.jpg\" alt=\"\" width=\"553\" height=\"654\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/2/gallery/3logo.jpg\" data-size=\"458x492\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/2/gallery/3logo-thumbnail.jpg\" alt=\"\" width=\"458\" height=\"492\"></a></figure>\n</div></div>\n<p>The client wanted a fun logo that represented her and the business she was promoting. She went for the clean playful design with the woman leaning against a big C. This designed was created in Photoshop. </p>",
+            "image": "https://rudytrnka.com/media/posts/2/flyer2.jpg",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Sketch",
+                   "Photoshop",
+                   "Logo Design"
+            ],
+            "date_published": "2026-06-29T00:15:55-04:00",
+            "date_modified": "2026-06-29T00:37:36-04:00"
+        },
         {
             "id": "https://rudytrnka.com/revivied-2026.html",
             "url": "https://rudytrnka.com/revivied-2026.html",

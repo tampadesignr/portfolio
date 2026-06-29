@@ -3,12 +3,44 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-05-30T18:57:42-04:00</updated>
+    <updated>2026-06-29T00:37:36-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
+    <entry>
+        <title>Carrie Crazy Crawls</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/carrie-crazy-crawls.html"/>
+        <id>https://rudytrnka.com/carrie-crazy-crawls.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/2/flyer2.jpg" medium="image" />
+            <category term="Sketch"/>
+            <category term="Photoshop"/>
+            <category term="Logo Design"/>
+
+        <updated>2026-06-29T00:15:55-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/2/flyer2.jpg" alt="" />
+                    The client wanted a fun logo that represented her and the business&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/2/flyer2.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/2/gallery/CARRIE_LOGO-whitebg.png" data-size="371x164"><img loading="lazy" src="https://rudytrnka.com/media/posts/2/gallery/CARRIE_LOGO-whitebg-thumbnail.png" alt="" width="371" height="164"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/2/gallery/1logo.jpg" data-size="474x647"><img loading="lazy" src="https://rudytrnka.com/media/posts/2/gallery/1logo-thumbnail.jpg" alt="" width="474" height="647"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/2/gallery/2logo.jpg" data-size="553x654"><img loading="lazy" src="https://rudytrnka.com/media/posts/2/gallery/2logo-thumbnail.jpg" alt="" width="553" height="654"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/2/gallery/3logo.jpg" data-size="458x492"><img loading="lazy" src="https://rudytrnka.com/media/posts/2/gallery/3logo-thumbnail.jpg" alt="" width="458" height="492"></a></figure>
+</div></div>
+<p>The client wanted a fun logo that represented her and the business she was promoting. She went for the clean playful design with the woman leaning against a big C. This designed was created in Photoshop. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Revived 2026</title>
         <author>
