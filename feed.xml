@@ -3,7 +3,7 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-06-29T17:39:56-04:00</updated>
+    <updated>2026-06-30T00:22:53-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
@@ -16,28 +16,30 @@
         </author>
         <link href="https://rudytrnka.com/carrie-crazy-crawls.html"/>
         <id>https://rudytrnka.com/carrie-crazy-crawls.html</id>
-        <media:content url="https://rudytrnka.com/media/posts/2/Boogu_image_edit_00004_.png" medium="image" />
+        <media:content url="https://rudytrnka.com/media/posts/2/Qwen_Edit_2511_00014_.png" medium="image" />
             <category term="Sketch"/>
             <category term="Photoshop"/>
             <category term="Logo Design"/>
+            <category term="AI Image"/>
 
         <updated>2026-06-29T00:15:55-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://rudytrnka.com/media/posts/2/Boogu_image_edit_00004_.png" alt="" />
+                        <img src="https://rudytrnka.com/media/posts/2/Qwen_Edit_2511_00014_.png" alt="" />
                     The client wanted a fun logo that represented her and the business&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://rudytrnka.com/media/posts/2/Boogu_image_edit_00004_.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://rudytrnka.com/media/posts/2/Qwen_Edit_2511_00014_.png" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/2/gallery/CARRIE_LOGO-whitebg.png" data-size="371x164"><img loading="lazy" src="https://rudytrnka.com/media/posts/2/gallery/CARRIE_LOGO-whitebg-thumbnail.png" alt="" width="371" height="164"></a></figure>
 <figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/2/gallery/1logo.jpg" data-size="474x647"><img loading="lazy" src="https://rudytrnka.com/media/posts/2/gallery/1logo-thumbnail.jpg" alt="" width="474" height="647"></a></figure>
 <figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/2/gallery/2logo.jpg" data-size="553x654"><img loading="lazy" src="https://rudytrnka.com/media/posts/2/gallery/2logo-thumbnail.jpg" alt="" width="553" height="654"></a></figure>
 <figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/2/gallery/3logo.jpg" data-size="458x492"><img loading="lazy" src="https://rudytrnka.com/media/posts/2/gallery/3logo-thumbnail.jpg" alt="" width="458" height="492"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/2/gallery/Boogu_image_edit_00004_.png" data-size="1024x1024"><img loading="lazy" src="https://rudytrnka.com/media/posts/2/gallery/Boogu_image_edit_00004_-thumbnail.png" alt="" width="768" height="768"></a></figure>
 </div></div>
-<p>The client wanted a fun logo that represented her and the business she was promoting. She went for the clean playful design with the woman leaning against a big C. This designed was created in Photoshop. </p>
+<p>The client wanted a fun logo that represented her and the business she was promoting. She went for the clean playful design with the woman leaning against a big C. This designed was created in Photoshop. This logo was created before AI. The full color images in this post where create with AI models using the original logo as an input image.</p>
             ]]>
         </content>
     </entry>
