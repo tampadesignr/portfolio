@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://rudytrnka.com/music-store-flyer.html",
+            "url": "https://rudytrnka.com/music-store-flyer.html",
+            "title": "Music Store Flyer",
+            "summary": "This flyer was hand drawn for client, they requested me to make&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/9/gallery/ComfyUI_00458_.png\" data-size=\"1224x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/9/gallery/ComfyUI_00458_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1059\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/9/gallery/cd-store-flyer-design-lg.jpg\" data-size=\"462x600\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/9/gallery/cd-store-flyer-design-lg-thumbnail.jpg\" alt=\"\" width=\"462\" height=\"600\"></a></figure>\n</div></div>\n<p>This flyer was hand drawn for client, they requested me to make the flyer with my style of whimsy.  This was a test of AI to see how it would handle text with minimal direction. I would rerun this with more direction for the darker area, I include this sample because as is, its still a fun example for color choices by AI.</p>",
+            "image": "https://rudytrnka.com/media/posts/9/ComfyUI_00458_.png",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Sketch",
+                   "Print Design",
+                   "AI Image"
+            ],
+            "date_published": "2026-07-04T21:24:04-04:00",
+            "date_modified": "2026-07-04T21:24:04-04:00"
+        },
+        {
             "id": "https://rudytrnka.com/chillin-cat-in-wonderland.html",
             "url": "https://rudytrnka.com/chillin-cat-in-wonderland.html",
             "title": "Chillin Cat in Wonderland",

@@ -3,12 +3,42 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-07-04T20:58:07-04:00</updated>
+    <updated>2026-07-04T21:24:04-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
+    <entry>
+        <title>Music Store Flyer</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/music-store-flyer.html"/>
+        <id>https://rudytrnka.com/music-store-flyer.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/9/ComfyUI_00458_.png" medium="image" />
+            <category term="Sketch"/>
+            <category term="Print Design"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-04T21:24:04-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/9/ComfyUI_00458_.png" alt="" />
+                    This flyer was hand drawn for client, they requested me to make&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/9/ComfyUI_00458_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/9/gallery/ComfyUI_00458_.png" data-size="1224x1688"><img loading="lazy" src="https://rudytrnka.com/media/posts/9/gallery/ComfyUI_00458_-thumbnail.png" alt="" width="768" height="1059"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/9/gallery/cd-store-flyer-design-lg.jpg" data-size="462x600"><img loading="lazy" src="https://rudytrnka.com/media/posts/9/gallery/cd-store-flyer-design-lg-thumbnail.jpg" alt="" width="462" height="600"></a></figure>
+</div></div>
+<p>This flyer was hand drawn for client, they requested me to make the flyer with my style of whimsy.  This was a test of AI to see how it would handle text with minimal direction. I would rerun this with more direction for the darker area, I include this sample because as is, its still a fun example for color choices by AI.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Chillin Cat in Wonderland</title>
         <author>
