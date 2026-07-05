@@ -3,12 +3,42 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-07-04T20:40:08-04:00</updated>
+    <updated>2026-07-04T20:48:36-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
+    <entry>
+        <title>Beware of the Trees</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/beware-of-the-trees.html"/>
+        <id>https://rudytrnka.com/beware-of-the-trees.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/7/ComfyUI_00445_.png" medium="image" />
+            <category term="Sketch"/>
+            <category term="Characters"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-04T20:48:36-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/7/ComfyUI_00445_.png" alt="" />
+                    Another image where i put a character in a somewhat surreal scene,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/7/ComfyUI_00445_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/7/gallery/ComfyUI_00445_.png" data-size="1224x1688"><img loading="lazy" src="https://rudytrnka.com/media/posts/7/gallery/ComfyUI_00445_-thumbnail.png" alt="" width="768" height="1059"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/7/gallery/beware-of-the-trees-large.jpg" data-size="461x600"><img loading="lazy" src="https://rudytrnka.com/media/posts/7/gallery/beware-of-the-trees-large-thumbnail.jpg" alt="" width="461" height="600"></a></figure>
+</div></div>
+<p>Another image where i put a character in a somewhat surreal scene, I look forward to making the video animation for this image. I used AI to lightly apply color while maintaining the general composition of the original image.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Double Dribble</title>
         <author>
