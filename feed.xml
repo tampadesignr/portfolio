@@ -3,12 +3,43 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-07-04T20:48:36-04:00</updated>
+    <updated>2026-07-04T20:58:07-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
+    <entry>
+        <title>Chillin Cat in Wonderland</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/chillin-cat-in-wonderland.html"/>
+        <id>https://rudytrnka.com/chillin-cat-in-wonderland.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/8/ComfyUI_00461_.png" medium="image" />
+            <category term="Sketch"/>
+            <category term="Characters"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-04T20:58:07-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/8/ComfyUI_00461_.png" alt="" />
+                    This is an old sketch done using a marker, no pencil, each&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/8/ComfyUI_00461_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/8/gallery/ComfyUI_00461_.png" data-size="1224x1688"><img loading="lazy" src="https://rudytrnka.com/media/posts/8/gallery/ComfyUI_00461_-thumbnail.png" alt="" width="768" height="1059"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/8/gallery/ComfyUI_00394_.png" data-size="1760x1176"><img loading="lazy" src="https://rudytrnka.com/media/posts/8/gallery/ComfyUI_00394_-thumbnail.png" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/8/gallery/scan0005.jpg" data-size="1513x2110"><img loading="lazy" src="https://rudytrnka.com/media/posts/8/gallery/scan0005-thumbnail.jpg" alt="" width="768" height="1071"></a></figure>
+</div></div>
+<p>This is an old sketch done using a marker, no pencil, each line is permanent. This was an old practice sketch of  image within image challenging myself strengthening my creative mind learning to make choices and stick with them. I will be circling back to this image with AI and experimenting with different methods to create a finished image.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Beware of the Trees</title>
         <author>
