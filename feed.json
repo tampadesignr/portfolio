@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://rudytrnka.com/big-bang-comedy-tour.html",
+            "url": "https://rudytrnka.com/big-bang-comedy-tour.html",
+            "title": "Big Bang Comedy Tour",
+            "summary": "The concept for this logo was to create the energy and feel&hellip;",
+            "content_html": "<p> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00144_.png\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00144_-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/13/gallery/IMG679.jpg\" data-size=\"1280x960\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/13/gallery/IMG679-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00145_.png\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00145_-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00146_.png\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00146_-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00147_.png\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00147_-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00151_.png\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00151_-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>\n<p>The concept for this logo was to create the energy and feel of big and showing a bang and the typical bomb explosion cloud around a microphone I feel sells the idea, while relating to the mental visual picture created by this combination of words and imagery. This logo I used to test a few styles changes to see how AI handles this kind of imagery. Then I used AI to apply the logo concept to a mock-up location. I did not try to refine the logo with these images, I was more interested in AI ability to apply styles to words and imagery.</p>",
+            "image": "https://rudytrnka.com/media/posts/13/Qwen_Edit_2511_00157_.png",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Sketch",
+                   "Logo Design",
+                   "AI Image"
+            ],
+            "date_published": "2026-07-05T01:10:41-04:00",
+            "date_modified": "2026-07-05T01:11:25-04:00"
+        },
+        {
             "id": "https://rudytrnka.com/the-fresh-twist.html",
             "url": "https://rudytrnka.com/the-fresh-twist.html",
             "title": "The Fresh Twist",
@@ -170,23 +188,6 @@
             ],
             "date_published": "2026-07-04T20:17:50-04:00",
             "date_modified": "2026-07-04T20:19:09-04:00"
-        },
-        {
-            "id": "https://rudytrnka.com/two-face-energy.html",
-            "url": "https://rudytrnka.com/two-face-energy.html",
-            "title": "Two Face Energy",
-            "summary": "Just some fun while learning about about the new tech with my&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/3/gallery/scan0053.jpg\" data-size=\"411x600\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/3/gallery/scan0053-thumbnail.jpg\" alt=\"\" width=\"411\" height=\"600\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/3/gallery/ComfyUI_00440_.png\" data-size=\"1224x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/3/gallery/ComfyUI_00440_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1059\"></a></figure>\n</div></div>\n<p>Just some fun while learning about about the new tech with my old artwork. For this experiment I tested the model ability to make a paint texture. The original is has less color.</p>",
-            "image": "https://rudytrnka.com/media/posts/3/ComfyUI_00440_.png",
-            "author": {
-                "name": "Rudy"
-            },
-            "tags": [
-                   "Sketch",
-                   "AI Image"
-            ],
-            "date_published": "2026-07-04T20:11:19-04:00",
-            "date_modified": "2026-07-04T20:18:59-04:00"
         }
     ]
 }
