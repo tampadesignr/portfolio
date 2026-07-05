@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://rudytrnka.com/football-coliseum.html",
+            "url": "https://rudytrnka.com/football-coliseum.html",
+            "title": "Football Coliseum",
+            "summary": "When you are learning to draw, the best way to get better&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/18/gallery/20251106_093159.jpg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/18/gallery/20251106_093159-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/18/gallery/ComfyUI_00491_.png\" data-size=\"1656x1240\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/18/gallery/ComfyUI_00491_-thumbnail.png\" alt=\"\" width=\"768\" height=\"575\"></a></figure>\n</div></div>\n<p>When you are learning to draw, the best way to get better is to draw everything, which was why I drew this picture of American football players in the middle of a play. I wanted to convey the event with minimal lines and color to tell the story. I used AI with this picture testing AI ability to use parts of the composition like the players but changing them to Romans and adding whimsical elements in the spirit of the myths of the ancient roman coliseums.</p>",
+            "image": "https://rudytrnka.com/media/posts/18/ComfyUI_00491_.png",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Sketch",
+                   "Characters",
+                   "AI Image"
+            ],
+            "date_published": "2026-07-05T18:21:55-04:00",
+            "date_modified": "2026-07-05T18:22:12-04:00"
+        },
+        {
             "id": "https://rudytrnka.com/building-study.html",
             "url": "https://rudytrnka.com/building-study.html",
             "title": "Building Study",
@@ -173,24 +191,6 @@
             ],
             "date_published": "2026-07-04T21:24:04-04:00",
             "date_modified": "2026-07-04T21:24:04-04:00"
-        },
-        {
-            "id": "https://rudytrnka.com/chillin-cat-in-wonderland.html",
-            "url": "https://rudytrnka.com/chillin-cat-in-wonderland.html",
-            "title": "Chillin Cat in Wonderland",
-            "summary": "This is an old sketch done using a marker, no pencil, each&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/8/gallery/ComfyUI_00461_.png\" data-size=\"1224x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/8/gallery/ComfyUI_00461_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1059\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/8/gallery/ComfyUI_00394_.png\" data-size=\"1760x1176\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/8/gallery/ComfyUI_00394_-thumbnail.png\" alt=\"\" width=\"768\" height=\"513\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/8/gallery/scan0005.jpg\" data-size=\"1513x2110\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/8/gallery/scan0005-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1071\"></a></figure>\n</div></div>\n<p>This is an old sketch done using a marker, no pencil, each line is permanent. This was an old practice sketch of  image within image challenging myself strengthening my creative mind learning to make choices and stick with them. I will be circling back to this image with AI and experimenting with different methods to create a finished image.</p>",
-            "image": "https://rudytrnka.com/media/posts/8/ComfyUI_00461_.png",
-            "author": {
-                "name": "Rudy"
-            },
-            "tags": [
-                   "Sketch",
-                   "Characters",
-                   "AI Image"
-            ],
-            "date_published": "2026-07-04T20:58:07-04:00",
-            "date_modified": "2026-07-04T20:58:07-04:00"
         }
     ]
 }

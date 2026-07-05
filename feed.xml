@@ -3,12 +3,42 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-07-05T18:01:33-04:00</updated>
+    <updated>2026-07-05T18:22:12-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
+    <entry>
+        <title>Football Coliseum</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/football-coliseum.html"/>
+        <id>https://rudytrnka.com/football-coliseum.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/18/ComfyUI_00491_.png" medium="image" />
+            <category term="Sketch"/>
+            <category term="Characters"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-05T18:21:55-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/18/ComfyUI_00491_.png" alt="" />
+                    When you are learning to draw, the best way to get better&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/18/ComfyUI_00491_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/18/gallery/20251106_093159.jpg" data-size="4032x3024"><img loading="lazy" src="https://rudytrnka.com/media/posts/18/gallery/20251106_093159-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/18/gallery/ComfyUI_00491_.png" data-size="1656x1240"><img loading="lazy" src="https://rudytrnka.com/media/posts/18/gallery/ComfyUI_00491_-thumbnail.png" alt="" width="768" height="575"></a></figure>
+</div></div>
+<p>When you are learning to draw, the best way to get better is to draw everything, which was why I drew this picture of American football players in the middle of a play. I wanted to convey the event with minimal lines and color to tell the story. I used AI with this picture testing AI ability to use parts of the composition like the players but changing them to Romans and adding whimsical elements in the spirit of the myths of the ancient roman coliseums.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Building Study</title>
         <author>
@@ -289,37 +319,6 @@
 <figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/9/gallery/cd-store-flyer-design-lg.jpg" data-size="462x600"><img loading="lazy" src="https://rudytrnka.com/media/posts/9/gallery/cd-store-flyer-design-lg-thumbnail.jpg" alt="" width="462" height="600"></a></figure>
 </div></div>
 <p>This flyer was hand drawn for client, they requested me to make the flyer with my style of whimsy.  This was a test of AI to see how it would handle text with minimal direction. I would rerun this with more direction for the darker area, I include this sample because as is, its still a fun example for color choices by AI.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Chillin Cat in Wonderland</title>
-        <author>
-            <name>Rudy</name>
-        </author>
-        <link href="https://rudytrnka.com/chillin-cat-in-wonderland.html"/>
-        <id>https://rudytrnka.com/chillin-cat-in-wonderland.html</id>
-        <media:content url="https://rudytrnka.com/media/posts/8/ComfyUI_00461_.png" medium="image" />
-            <category term="Sketch"/>
-            <category term="Characters"/>
-            <category term="AI Image"/>
-
-        <updated>2026-07-04T20:58:07-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://rudytrnka.com/media/posts/8/ComfyUI_00461_.png" alt="" />
-                    This is an old sketch done using a marker, no pencil, each&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://rudytrnka.com/media/posts/8/ComfyUI_00461_.png" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/8/gallery/ComfyUI_00461_.png" data-size="1224x1688"><img loading="lazy" src="https://rudytrnka.com/media/posts/8/gallery/ComfyUI_00461_-thumbnail.png" alt="" width="768" height="1059"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/8/gallery/ComfyUI_00394_.png" data-size="1760x1176"><img loading="lazy" src="https://rudytrnka.com/media/posts/8/gallery/ComfyUI_00394_-thumbnail.png" alt="" width="768" height="513"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/8/gallery/scan0005.jpg" data-size="1513x2110"><img loading="lazy" src="https://rudytrnka.com/media/posts/8/gallery/scan0005-thumbnail.jpg" alt="" width="768" height="1071"></a></figure>
-</div></div>
-<p>This is an old sketch done using a marker, no pencil, each line is permanent. This was an old practice sketch of  image within image challenging myself strengthening my creative mind learning to make choices and stick with them. I will be circling back to this image with AI and experimenting with different methods to create a finished image.</p>
             ]]>
         </content>
     </entry>
