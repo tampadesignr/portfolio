@@ -3,14 +3,73 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-07-04T20:12:47-04:00</updated>
+    <updated>2026-07-04T20:27:49-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
     <entry>
-        <title>two face energy</title>
+        <title>The A Team</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/the-a-team.html"/>
+        <id>https://rudytrnka.com/the-a-team.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/5/ComfyUI_00476_.png" medium="image" />
+            <category term="Sketch"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-04T20:23:14-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/5/ComfyUI_00476_.png" alt="" />
+                    This is a sketch i made when i was around 5. I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/5/ComfyUI_00476_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/5/gallery/20251106_023529-2.jpg" data-size="4032x3024"><img loading="lazy" src="https://rudytrnka.com/media/posts/5/gallery/20251106_023529-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/5/gallery/ComfyUI_00476_-2.png" data-size="1656x1240"><img loading="lazy" src="https://rudytrnka.com/media/posts/5/gallery/ComfyUI_00476_-2-thumbnail.png" alt="" width="768" height="575"></a></figure>
+</div></div>
+<p>This is a sketch i made when i was around 5. I have laughed at myself for many years with this picture I made so very long ago. This was a fun one to feed to AI and see something so old brought to a new life.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>We Come in Peace</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/we-come-in-peace.html"/>
+        <id>https://rudytrnka.com/we-come-in-peace.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/4/ComfyUI_00452_.png" medium="image" />
+            <category term="Sketch"/>
+            <category term="Characters"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-04T20:17:50-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/4/ComfyUI_00452_.png" alt="" />
+                    I always love surreal, image within image kind of concepts even while&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/4/ComfyUI_00452_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/4/gallery/ComfyUI_00452_.png" data-size="1224x1688"><img loading="lazy" src="https://rudytrnka.com/media/posts/4/gallery/ComfyUI_00452_-thumbnail.png" alt="" width="768" height="1059"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/4/gallery/scan0020.jpg" data-size="1166x1938"><img loading="lazy" src="https://rudytrnka.com/media/posts/4/gallery/scan0020-thumbnail.jpg" alt="" width="768" height="1276"></a></figure>
+</div></div>
+<p>I always love surreal, image within image kind of concepts even while working on characters, so its was fun to feed the black and white image to AI and see it brought to life.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Two Face Energy</title>
         <author>
             <name>Rudy</name>
         </author>
