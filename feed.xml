@@ -3,12 +3,41 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-07-05T19:01:23-04:00</updated>
+    <updated>2026-07-05T19:09:37-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
+    <entry>
+        <title>Girl with Flowers</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/girl-with-flowers.html"/>
+        <id>https://rudytrnka.com/girl-with-flowers.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/20/ComfyUI_00446_.png" medium="image" />
+            <category term="Sketch"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-05T19:09:37-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/20/ComfyUI_00446_.png" alt="" />
+                    I worked at a gas station and the owner did not mind&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/20/ComfyUI_00446_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/20/gallery/ComfyUI_00446_.png" data-size="1224x1688"><img loading="lazy" src="https://rudytrnka.com/media/posts/20/gallery/ComfyUI_00446_-thumbnail.png" alt="" width="768" height="1059"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/20/gallery/scan0029.jpg" data-size="1341x1737"><img loading="lazy" src="https://rudytrnka.com/media/posts/20/gallery/scan0029-thumbnail.jpg" alt="" width="768" height="995"></a></figure>
+</div></div>
+<p>I worked at a gas station and the owner did not mind if I drew while at work so long as all my duties were done by the end of my shift. I don't recall what my inspiration was for this one other then recalling where I created it which was as a clerk inside a gas station store. I was interested to see how AI would fill the scene and following my instructions to make the sketch a finished artwork.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Vehicle Fabrication</title>
         <author>
@@ -301,36 +330,6 @@
 <figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/11/gallery/scan0033.jpg" data-size="1558x2070"><img loading="lazy" src="https://rudytrnka.com/media/posts/11/gallery/scan0033-thumbnail.jpg" alt="" width="768" height="1020"></a></figure>
 </div></div>
 <p>This is from my studies of mixing characters with surreal concepts to create a movement of the viewers eyes around the image looking for the little hidden details. I like to create an energy or flow of lines and color that make you want to see every detail of the image, trying to make something as simple as an elephant dancing into something with some visual depth of the image and the meaning behind it. The fish are the music manifested into matter swimming into the elephants ear. The more colored version was a light edit with an AI model to see if it could keep the feel of the image and add a little something extra.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Connecticut Nature Study</title>
-        <author>
-            <name>Rudy</name>
-        </author>
-        <link href="https://rudytrnka.com/connecticut-nature-study.html"/>
-        <id>https://rudytrnka.com/connecticut-nature-study.html</id>
-        <media:content url="https://rudytrnka.com/media/posts/10/ComfyUI_00626_.png" medium="image" />
-            <category term="Sketch"/>
-            <category term="Characters"/>
-            <category term="AI Image"/>
-
-        <updated>2026-07-04T21:37:44-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://rudytrnka.com/media/posts/10/ComfyUI_00626_.png" alt="" />
-                    I have always had a sketch book with me where ever I&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://rudytrnka.com/media/posts/10/ComfyUI_00626_.png" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/10/gallery/ComfyUI_00626_.png" data-size="1656x1240"><img loading="lazy" src="https://rudytrnka.com/media/posts/10/gallery/ComfyUI_00626_-thumbnail.png" alt="" width="768" height="575"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/10/gallery/20251106_105645.jpg" data-size="4032x3024"><img loading="lazy" src="https://rudytrnka.com/media/posts/10/gallery/20251106_105645-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-</div></div>
-<p>I have always had a sketch book with me where ever I went, and this was from a long road trip, just enjoying the hills. I was inspired by the long branch when i drew the sketch and also inspired by the long branch to create a composition that featured and accented that feature of the drawing. The first thing that came to mind was a disco ball and the rest just came together</p>
             ]]>
         </content>
     </entry>

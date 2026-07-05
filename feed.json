@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://rudytrnka.com/girl-with-flowers.html",
+            "url": "https://rudytrnka.com/girl-with-flowers.html",
+            "title": "Girl with Flowers",
+            "summary": "I worked at a gas station and the owner did not mind&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/20/gallery/ComfyUI_00446_.png\" data-size=\"1224x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/20/gallery/ComfyUI_00446_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1059\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/20/gallery/scan0029.jpg\" data-size=\"1341x1737\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/20/gallery/scan0029-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"995\"></a></figure>\n</div></div>\n<p>I worked at a gas station and the owner did not mind if I drew while at work so long as all my duties were done by the end of my shift. I don't recall what my inspiration was for this one other then recalling where I created it which was as a clerk inside a gas station store. I was interested to see how AI would fill the scene and following my instructions to make the sketch a finished artwork.</p>",
+            "image": "https://rudytrnka.com/media/posts/20/ComfyUI_00446_.png",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Sketch",
+                   "AI Image"
+            ],
+            "date_published": "2026-07-05T19:09:37-04:00",
+            "date_modified": "2026-07-05T19:09:37-04:00"
+        },
+        {
             "id": "https://rudytrnka.com/vehicle-fabrication.html",
             "url": "https://rudytrnka.com/vehicle-fabrication.html",
             "title": "Vehicle Fabrication",
@@ -171,24 +188,6 @@
             ],
             "date_published": "2026-07-04T22:22:04-04:00",
             "date_modified": "2026-07-04T22:25:36-04:00"
-        },
-        {
-            "id": "https://rudytrnka.com/connecticut-nature-study.html",
-            "url": "https://rudytrnka.com/connecticut-nature-study.html",
-            "title": "Connecticut Nature Study",
-            "summary": "I have always had a sketch book with me where ever I&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/10/gallery/ComfyUI_00626_.png\" data-size=\"1656x1240\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/10/gallery/ComfyUI_00626_-thumbnail.png\" alt=\"\" width=\"768\" height=\"575\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/10/gallery/20251106_105645.jpg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/10/gallery/20251106_105645-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div></div>\n<p>I have always had a sketch book with me where ever I went, and this was from a long road trip, just enjoying the hills. I was inspired by the long branch when i drew the sketch and also inspired by the long branch to create a composition that featured and accented that feature of the drawing. The first thing that came to mind was a disco ball and the rest just came together</p>",
-            "image": "https://rudytrnka.com/media/posts/10/ComfyUI_00626_.png",
-            "author": {
-                "name": "Rudy"
-            },
-            "tags": [
-                   "Sketch",
-                   "Characters",
-                   "AI Image"
-            ],
-            "date_published": "2026-07-04T21:37:44-04:00",
-            "date_modified": "2026-07-04T21:37:44-04:00"
         }
     ]
 }
