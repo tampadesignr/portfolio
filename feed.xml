@@ -3,12 +3,41 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-07-05T19:09:37-04:00</updated>
+    <updated>2026-07-05T19:25:18-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
+    <entry>
+        <title>Perspective is Relative</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/perspective-is-relative.html"/>
+        <id>https://rudytrnka.com/perspective-is-relative.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/21/ComfyUI_00448_.png" medium="image" />
+            <category term="Sketch"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-05T19:25:18-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/21/ComfyUI_00448_.png" alt="" />
+                    This was a surreal sketch using elements to show the concept of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/21/ComfyUI_00448_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/21/gallery/ComfyUI_00448_.png" data-size="1224x1688"><img loading="lazy" src="https://rudytrnka.com/media/posts/21/gallery/ComfyUI_00448_-thumbnail.png" alt="" width="768" height="1059"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/21/gallery/scan0032.jpg" data-size="1653x2181"><img loading="lazy" src="https://rudytrnka.com/media/posts/21/gallery/scan0032-thumbnail.jpg" alt="" width="768" height="1013"></a></figure>
+</div></div>
+<p>This was a surreal sketch using elements to show the concept of perspective is relative. It is meant to be playful but also to show how context is everything. I used AI with this piece to see if could understand my description of the elements and apply the correct coloring and highlights to further convey the concept.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Girl with Flowers</title>
         <author>
@@ -300,36 +329,6 @@
 <figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/12/gallery/IMG_0283.JPG" data-size="3264x2448"><img loading="lazy" src="https://rudytrnka.com/media/posts/12/gallery/IMG_0283-thumbnail.JPG" alt="" width="768" height="576"></a></figure>
 </div></div>
 <p>This logo concept was fun to create, I love logo's because it takes all artistic ability and revolves around something that needs to be readable as a logo, yet have some flare to stand out. I find logo's a good test of creative ability. For the fresh twist logo I wanted something that evoked the name fresh with a design that felt fresh as well. I first do sketches of ideas for logo before entering the digital space. This logo was finished in Photoshop and revived with AI to test AI ability to maintain the logo, while creating a mock-up of the logo applied to a real world situation.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Groovin Elephant</title>
-        <author>
-            <name>Rudy</name>
-        </author>
-        <link href="https://rudytrnka.com/groovin-elephant.html"/>
-        <id>https://rudytrnka.com/groovin-elephant.html</id>
-        <media:content url="https://rudytrnka.com/media/posts/11/ComfyUI_00444_.png" medium="image" />
-            <category term="Sketch"/>
-            <category term="Characters"/>
-            <category term="AI Image"/>
-
-        <updated>2026-07-04T22:22:04-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://rudytrnka.com/media/posts/11/ComfyUI_00444_.png" alt="" />
-                    This is from my studies of mixing characters with surreal concepts to&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://rudytrnka.com/media/posts/11/ComfyUI_00444_.png" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/11/gallery/ComfyUI_00444_.png" data-size="1224x1688"><img loading="lazy" src="https://rudytrnka.com/media/posts/11/gallery/ComfyUI_00444_-thumbnail.png" alt="" width="768" height="1059"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/11/gallery/scan0033.jpg" data-size="1558x2070"><img loading="lazy" src="https://rudytrnka.com/media/posts/11/gallery/scan0033-thumbnail.jpg" alt="" width="768" height="1020"></a></figure>
-</div></div>
-<p>This is from my studies of mixing characters with surreal concepts to create a movement of the viewers eyes around the image looking for the little hidden details. I like to create an energy or flow of lines and color that make you want to see every detail of the image, trying to make something as simple as an elephant dancing into something with some visual depth of the image and the meaning behind it. The fish are the music manifested into matter swimming into the elephants ear. The more colored version was a light edit with an AI model to see if it could keep the feel of the image and add a little something extra.</p>
             ]]>
         </content>
     </entry>

@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://rudytrnka.com/perspective-is-relative.html",
+            "url": "https://rudytrnka.com/perspective-is-relative.html",
+            "title": "Perspective is Relative",
+            "summary": "This was a surreal sketch using elements to show the concept of&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/21/gallery/ComfyUI_00448_.png\" data-size=\"1224x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/21/gallery/ComfyUI_00448_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1059\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/21/gallery/scan0032.jpg\" data-size=\"1653x2181\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/21/gallery/scan0032-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1013\"></a></figure>\n</div></div>\n<p>This was a surreal sketch using elements to show the concept of perspective is relative. It is meant to be playful but also to show how context is everything. I used AI with this piece to see if could understand my description of the elements and apply the correct coloring and highlights to further convey the concept.</p>",
+            "image": "https://rudytrnka.com/media/posts/21/ComfyUI_00448_.png",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Sketch",
+                   "AI Image"
+            ],
+            "date_published": "2026-07-05T19:25:18-04:00",
+            "date_modified": "2026-07-05T19:25:18-04:00"
+        },
+        {
             "id": "https://rudytrnka.com/girl-with-flowers.html",
             "url": "https://rudytrnka.com/girl-with-flowers.html",
             "title": "Girl with Flowers",
@@ -170,24 +187,6 @@
             ],
             "date_published": "2026-07-04T23:30:53-04:00",
             "date_modified": "2026-07-05T00:27:08-04:00"
-        },
-        {
-            "id": "https://rudytrnka.com/groovin-elephant.html",
-            "url": "https://rudytrnka.com/groovin-elephant.html",
-            "title": "Groovin Elephant",
-            "summary": "This is from my studies of mixing characters with surreal concepts to&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/11/gallery/ComfyUI_00444_.png\" data-size=\"1224x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/11/gallery/ComfyUI_00444_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1059\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/11/gallery/scan0033.jpg\" data-size=\"1558x2070\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/11/gallery/scan0033-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1020\"></a></figure>\n</div></div>\n<p>This is from my studies of mixing characters with surreal concepts to create a movement of the viewers eyes around the image looking for the little hidden details. I like to create an energy or flow of lines and color that make you want to see every detail of the image, trying to make something as simple as an elephant dancing into something with some visual depth of the image and the meaning behind it. The fish are the music manifested into matter swimming into the elephants ear. The more colored version was a light edit with an AI model to see if it could keep the feel of the image and add a little something extra.</p>",
-            "image": "https://rudytrnka.com/media/posts/11/ComfyUI_00444_.png",
-            "author": {
-                "name": "Rudy"
-            },
-            "tags": [
-                   "Sketch",
-                   "Characters",
-                   "AI Image"
-            ],
-            "date_published": "2026-07-04T22:22:04-04:00",
-            "date_modified": "2026-07-04T22:25:36-04:00"
         }
     ]
 }
