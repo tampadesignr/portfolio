@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://rudytrnka.com/two-face-energy.html",
+            "url": "https://rudytrnka.com/two-face-energy.html",
+            "title": "two face energy",
+            "summary": "Just some fun while learning about about the new tech with my&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/3/gallery/scan0053.jpg\" data-size=\"411x600\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/3/gallery/scan0053-thumbnail.jpg\" alt=\"\" width=\"411\" height=\"600\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/3/gallery/ComfyUI_00440_.png\" data-size=\"1224x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/3/gallery/ComfyUI_00440_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1059\"></a></figure>\n</div></div>\n<p>Just some fun while learning about about the new tech with my old artwork. For this experiment I tested the model ability to make a paint texture. The original is has less color.</p>",
+            "image": "https://rudytrnka.com/media/posts/3/ComfyUI_00440_.png",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Sketch",
+                   "AI Image"
+            ],
+            "date_published": "2026-07-04T20:11:19-04:00",
+            "date_modified": "2026-07-04T20:11:19-04:00"
+        },
+        {
             "id": "https://rudytrnka.com/carrie-crazy-crawls.html",
             "url": "https://rudytrnka.com/carrie-crazy-crawls.html",
             "title": "Carrie Crazy Crawls",
@@ -40,9 +57,10 @@
                 "name": "Rudy"
             },
             "tags": [
+                   "AI Image"
             ],
             "date_published": "2026-05-30T17:35:39-04:00",
-            "date_modified": "2026-05-30T18:57:42-04:00"
+            "date_modified": "2026-07-04T20:12:47-04:00"
         }
     ]
 }

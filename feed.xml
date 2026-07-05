@@ -3,12 +3,41 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-06-30T01:30:28-04:00</updated>
+    <updated>2026-07-04T20:12:47-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
+    <entry>
+        <title>two face energy</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/two-face-energy.html"/>
+        <id>https://rudytrnka.com/two-face-energy.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/3/ComfyUI_00440_.png" medium="image" />
+            <category term="Sketch"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-04T20:11:19-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/3/ComfyUI_00440_.png" alt="" />
+                    Just some fun while learning about about the new tech with my&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/3/ComfyUI_00440_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/3/gallery/scan0053.jpg" data-size="411x600"><img loading="lazy" src="https://rudytrnka.com/media/posts/3/gallery/scan0053-thumbnail.jpg" alt="" width="411" height="600"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/3/gallery/ComfyUI_00440_.png" data-size="1224x1688"><img loading="lazy" src="https://rudytrnka.com/media/posts/3/gallery/ComfyUI_00440_-thumbnail.png" alt="" width="768" height="1059"></a></figure>
+</div></div>
+<p>Just some fun while learning about about the new tech with my old artwork. For this experiment I tested the model ability to make a paint texture. The original is has less color.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Carrie Crazy Crawls</title>
         <author>
@@ -52,6 +81,7 @@
         <link href="https://rudytrnka.com/revivied-2026.html"/>
         <id>https://rudytrnka.com/revivied-2026.html</id>
         <media:content url="https://rudytrnka.com/media/posts/1/animazingxl_v10_750891048715168_00001_.png" medium="image" />
+            <category term="AI Image"/>
 
         <updated>2026-05-30T17:35:39-04:00</updated>
             <summary type="html">
