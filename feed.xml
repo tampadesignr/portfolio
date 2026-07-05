@@ -3,12 +3,43 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-07-05T19:25:18-04:00</updated>
+    <updated>2026-07-05T19:35:36-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
+    <entry>
+        <title>Groovy City</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/groovy-city.html"/>
+        <id>https://rudytrnka.com/groovy-city.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/22/ComfyUI_00631_.png" medium="image" />
+            <category term="Sketch"/>
+            <category term="Rough Sketch"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-05T19:35:36-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/22/ComfyUI_00631_.png" alt="" />
+                    There are a few thing I love to draw and silly, funky,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/22/ComfyUI_00631_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/22/gallery/20251106_055759.jpg" data-size="4032x3024"><img loading="lazy" src="https://rudytrnka.com/media/posts/22/gallery/20251106_055759-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/22/gallery/ComfyUI_00631_.png" data-size="1656x1240"><img loading="lazy" src="https://rudytrnka.com/media/posts/22/gallery/ComfyUI_00631_-thumbnail.png" alt="" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/22/gallery/ComfyUI_00630_.png" data-size="1656x1240"><img loading="lazy" src="https://rudytrnka.com/media/posts/22/gallery/ComfyUI_00630_-thumbnail.png" alt="" width="768" height="575"></a></figure>
+</div></div>
+<p>There are a few thing I love to draw and silly, funky, groovy cities is one of them. this was a rough idea for a city that featured basic shapes to convey a fun playful city. Sometimes I like to lightly draw an idea and then use a marker or something with a thicker line weight to see the concept from a distance, stepping back and imagining the concept from a distance sometimes I can see a direction to further the concept. For the AI image made from this sketch the first thing that came to mind was something whimsical to drive home the concept of a magical fun city.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Perspective is Relative</title>
         <author>
@@ -296,39 +327,6 @@
 <figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00151_.png" data-size="1024x1024"><img loading="lazy" src="https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00151_-thumbnail.png" alt="" width="768" height="768"></a></figure>
 </div></div>
 <p>The concept for this logo was to create the energy and feel of big and showing a bang and the typical bomb explosion cloud around a microphone I feel sells the idea, while relating to the mental visual picture created by this combination of words and imagery. This logo I used to test a few styles changes to see how AI handles this kind of imagery. Then I used AI to apply the logo concept to a mock-up location. I did not try to refine the logo with these images, I was more interested in AI ability to apply styles to words and imagery.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Fresh Twist</title>
-        <author>
-            <name>Rudy</name>
-        </author>
-        <link href="https://rudytrnka.com/the-fresh-twist.html"/>
-        <id>https://rudytrnka.com/the-fresh-twist.html</id>
-        <media:content url="https://rudytrnka.com/media/posts/12/Flux2-Klein-4b-base_00004_-2xl.png" medium="image" />
-            <category term="Photoshop"/>
-            <category term="Logo Design"/>
-            <category term="AI Image"/>
-
-        <updated>2026-07-04T23:30:53-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://rudytrnka.com/media/posts/12/Flux2-Klein-4b-base_00004_-2xl.png" alt="" />
-                    This logo concept was fun to create, I love logo's because it&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://rudytrnka.com/media/posts/12/Flux2-Klein-4b-base_00004_-2xl.png" class="type:primaryImage" alt="" /></p>
-                <p> </p>
-<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/12/gallery/thefreshtwist_logo_by_rudytrnka.png" data-size="340x198"><img loading="lazy" src="https://rudytrnka.com/media/posts/12/gallery/thefreshtwist_logo_by_rudytrnka-thumbnail.png" alt="" width="340" height="198"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/12/gallery/Flux2-Klein-4b-base_00004_-2xl.png" data-size="1024x1024"><img loading="lazy" src="https://rudytrnka.com/media/posts/12/gallery/Flux2-Klein-4b-base_00004_-2xl-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/12/gallery/Qwen_Edit_2511_00039_.png" data-size="1024x1024"><img loading="lazy" src="https://rudytrnka.com/media/posts/12/gallery/Qwen_Edit_2511_00039_-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/12/gallery/IMG_0283.JPG" data-size="3264x2448"><img loading="lazy" src="https://rudytrnka.com/media/posts/12/gallery/IMG_0283-thumbnail.JPG" alt="" width="768" height="576"></a></figure>
-</div></div>
-<p>This logo concept was fun to create, I love logo's because it takes all artistic ability and revolves around something that needs to be readable as a logo, yet have some flare to stand out. I find logo's a good test of creative ability. For the fresh twist logo I wanted something that evoked the name fresh with a design that felt fresh as well. I first do sketches of ideas for logo before entering the digital space. This logo was finished in Photoshop and revived with AI to test AI ability to maintain the logo, while creating a mock-up of the logo applied to a real world situation.</p>
             ]]>
         </content>
     </entry>
