@@ -3,12 +3,43 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-07-04T20:27:49-04:00</updated>
+    <updated>2026-07-04T20:40:08-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
+    <entry>
+        <title>Double Dribble</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/double-dribble.html"/>
+        <id>https://rudytrnka.com/double-dribble.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/6/ComfyUI_00621_.png" medium="image" />
+            <category term="Sketch"/>
+            <category term="Characters"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-04T20:40:08-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/6/ComfyUI_00621_.png" alt="" />
+                    This is an old sketch and I thought this would be a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/6/ComfyUI_00621_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/6/gallery/scan0040.jpg" data-size="407x600"><img loading="lazy" src="https://rudytrnka.com/media/posts/6/gallery/scan0040-thumbnail.jpg" alt="" width="407" height="600"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/6/gallery/ComfyUI_00621_.png" data-size="1224x1688"><img loading="lazy" src="https://rudytrnka.com/media/posts/6/gallery/ComfyUI_00621_-thumbnail.png" alt="" width="768" height="1059"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/6/gallery/ComfyUI_00620_.png" data-size="1224x1688"><img loading="lazy" src="https://rudytrnka.com/media/posts/6/gallery/ComfyUI_00620_-thumbnail.png" alt="" width="768" height="1059"></a></figure>
+</div></div>
+<p>This is an old sketch and I thought this would be a perfect test of what could be done with an advanced AI edit model. For this picture I was curious if it could take my bad drawing and keep the pose but also make a coherent image. I also tested how much of the original concept could be kept as a reference while making a new concept slightly modifying the rough areas</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The A Team</title>
         <author>
@@ -34,7 +65,7 @@
 <figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/5/gallery/20251106_023529-2.jpg" data-size="4032x3024"><img loading="lazy" src="https://rudytrnka.com/media/posts/5/gallery/20251106_023529-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 <figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/5/gallery/ComfyUI_00476_-2.png" data-size="1656x1240"><img loading="lazy" src="https://rudytrnka.com/media/posts/5/gallery/ComfyUI_00476_-2-thumbnail.png" alt="" width="768" height="575"></a></figure>
 </div></div>
-<p>This is a sketch i made when i was around 5. I have laughed at myself for many years with this picture I made so very long ago. This was a fun one to feed to AI and see something so old brought to a new life.</p>
+<p>This is a sketch i made when i was around 5. I have laughed at myself for many years with this picture I made so very long ago. This was a fun one to feed to AI and see something so old brought to a new life. This was one of my first tests with AI edit models and I told it this was a movie poster and it added text mock up spots. I have since learned alot but both of these are sentimental : )</p>
             ]]>
         </content>
     </entry>
