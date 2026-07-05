@@ -3,12 +3,42 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-07-04T21:24:04-04:00</updated>
+    <updated>2026-07-04T21:37:44-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
+    <entry>
+        <title>Connecticut Nature Study</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/connecticut-nature-study.html"/>
+        <id>https://rudytrnka.com/connecticut-nature-study.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/10/ComfyUI_00626_.png" medium="image" />
+            <category term="Sketch"/>
+            <category term="Characters"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-04T21:37:44-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/10/ComfyUI_00626_.png" alt="" />
+                    I have always had a sketch book with me where ever I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/10/ComfyUI_00626_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/10/gallery/ComfyUI_00626_.png" data-size="1656x1240"><img loading="lazy" src="https://rudytrnka.com/media/posts/10/gallery/ComfyUI_00626_-thumbnail.png" alt="" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/10/gallery/20251106_105645.jpg" data-size="4032x3024"><img loading="lazy" src="https://rudytrnka.com/media/posts/10/gallery/20251106_105645-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+</div></div>
+<p>I have always had a sketch book with me where ever I went, and this was from a long road trip, just enjoying the hills. I was inspired by the long branch when i drew the sketch and also inspired by the long branch to create a composition that featured and accented that feature of the drawing. The first thing that came to mind was a disco ball and the rest just came together</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Music Store Flyer</title>
         <author>
