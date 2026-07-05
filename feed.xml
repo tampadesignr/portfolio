@@ -3,12 +3,42 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-07-04T21:37:44-04:00</updated>
+    <updated>2026-07-04T22:22:31-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
+    <entry>
+        <title>Groovin Elephant</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/groovin-elephant.html"/>
+        <id>https://rudytrnka.com/groovin-elephant.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/11/ComfyUI_00444_.png" medium="image" />
+            <category term="Sketch"/>
+            <category term="Characters"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-04T22:22:04-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/11/ComfyUI_00444_.png" alt="" />
+                    This is from my studies of mixing characters with surreal concepts to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/11/ComfyUI_00444_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/11/gallery/ComfyUI_00444_.png" data-size="1224x1688"><img loading="lazy" src="https://rudytrnka.com/media/posts/11/gallery/ComfyUI_00444_-thumbnail.png" alt="" width="768" height="1059"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/11/gallery/scan0033.jpg" data-size="1558x2070"><img loading="lazy" src="https://rudytrnka.com/media/posts/11/gallery/scan0033-thumbnail.jpg" alt="" width="768" height="1020"></a></figure>
+</div></div>
+<p>This is from my studies of mixing characters with surreal concepts to create a movement of the viewers eyes around the image looking for the little hidden details. I like to create an energy or flow of lines and color that make you want to see every detail of the image, trying to make something as simple as an elephant dancing into something with some visual depth of the image and the meaning behind it. The fish are the music manifested into matter swimming into the elephants ear. The more colored version was a light edit with an AI model to see if it could keep the feel of the image and add a little something extra,</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Connecticut Nature Study</title>
         <author>
@@ -281,30 +311,6 @@
 <figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/2/gallery/3logo.jpg" data-size="458x492"><img loading="lazy" src="https://rudytrnka.com/media/posts/2/gallery/3logo-thumbnail.jpg" alt="" width="458" height="492"></a></figure>
 </div></div>
 <p>The client wanted a fun logo that represented her and the business she was promoting. She went for the clean playful design with the woman leaning against a big C. This designed was created in Photoshop. This logo was created before AI. The full color images in this post where create with AI models using the original logo as an input image. The AI images aren't meant to be perfect, they would need to go thru a few more steps to become a complete and final product, but they allow for showing logo placement of concept logos before a final logo is chosen quickly before spending the time on finished concepts and design.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Revived 2026</title>
-        <author>
-            <name>Rudy</name>
-        </author>
-        <link href="https://rudytrnka.com/revivied-2026.html"/>
-        <id>https://rudytrnka.com/revivied-2026.html</id>
-        <media:content url="https://rudytrnka.com/media/posts/1/animazingxl_v10_750891048715168_00001_.png" medium="image" />
-            <category term="AI Image"/>
-
-        <updated>2026-05-30T17:35:39-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://rudytrnka.com/media/posts/1/animazingxl_v10_750891048715168_00001_.png" alt="" />
-                    I am in the process of getting my work organized and online 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://rudytrnka.com/media/posts/1/animazingxl_v10_750891048715168_00001_.png" class="type:primaryImage" alt="" /></p>
-                <p>I am in the process of getting my work organized and online </p>
             ]]>
         </content>
     </entry>

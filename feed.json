@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://rudytrnka.com/groovin-elephant.html",
+            "url": "https://rudytrnka.com/groovin-elephant.html",
+            "title": "Groovin Elephant",
+            "summary": "This is from my studies of mixing characters with surreal concepts to&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/11/gallery/ComfyUI_00444_.png\" data-size=\"1224x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/11/gallery/ComfyUI_00444_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1059\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/11/gallery/scan0033.jpg\" data-size=\"1558x2070\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/11/gallery/scan0033-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1020\"></a></figure>\n</div></div>\n<p>This is from my studies of mixing characters with surreal concepts to create a movement of the viewers eyes around the image looking for the little hidden details. I like to create an energy or flow of lines and color that make you want to see every detail of the image, trying to make something as simple as an elephant dancing into something with some visual depth of the image and the meaning behind it. The fish are the music manifested into matter swimming into the elephants ear. The more colored version was a light edit with an AI model to see if it could keep the feel of the image and add a little something extra,</p>",
+            "image": "https://rudytrnka.com/media/posts/11/ComfyUI_00444_.png",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Sketch",
+                   "Characters",
+                   "AI Image"
+            ],
+            "date_published": "2026-07-04T22:22:04-04:00",
+            "date_modified": "2026-07-04T22:22:31-04:00"
+        },
+        {
             "id": "https://rudytrnka.com/connecticut-nature-study.html",
             "url": "https://rudytrnka.com/connecticut-nature-study.html",
             "title": "Connecticut Nature Study",
@@ -170,22 +188,6 @@
             ],
             "date_published": "2026-06-29T00:15:55-04:00",
             "date_modified": "2026-06-30T01:30:28-04:00"
-        },
-        {
-            "id": "https://rudytrnka.com/revivied-2026.html",
-            "url": "https://rudytrnka.com/revivied-2026.html",
-            "title": "Revived 2026",
-            "summary": "I am in the process of getting my work organized and online ",
-            "content_html": "<p>I am in the process of getting my work organized and online </p>",
-            "image": "https://rudytrnka.com/media/posts/1/animazingxl_v10_750891048715168_00001_.png",
-            "author": {
-                "name": "Rudy"
-            },
-            "tags": [
-                   "AI Image"
-            ],
-            "date_published": "2026-05-30T17:35:39-04:00",
-            "date_modified": "2026-07-04T20:12:47-04:00"
         }
     ]
 }
