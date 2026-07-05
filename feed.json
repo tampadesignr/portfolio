@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://rudytrnka.com/egyptian-city-sketch.html",
+            "url": "https://rudytrnka.com/egyptian-city-sketch.html",
+            "title": "Egyptian City Sketch",
+            "summary": "My creative process usually starts with a very rough outline of the&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/15/gallery/ComfyUI_00483_.png\" data-size=\"1240x1656\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/15/gallery/ComfyUI_00483_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1026\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/15/gallery/20251106_043427.jpg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/15/gallery/20251106_043427-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div></div>\n<p>My creative process usually starts with a very rough outline of the general composition. This was an idea to incorporate tanks which can be found in hieroglyphs into a collage of perspectives using some ideas of art from the  Egyptian walls and layering that with depth in the flow of the image from top to bottom. I never got further with this concept so this was fun to give to AI and see if it got my idea with minimal prompting. This is my strength in the modern world with technology, the ability to sketch an idea and now hand it off to an AI and have a partner in the creative process. Being able to communicate ideas with drawings helps to drive a concept easier then trying to just prompt directions and hope the AI get the idea. Visual ques from something as simple as this sketch and you can see it got the picture of what i was thinking for each layer.</p>",
+            "image": "https://rudytrnka.com/media/posts/15/ComfyUI_00483_.png",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Sketch",
+                   "Rough Sketch",
+                   "AI Image"
+            ],
+            "date_published": "2026-07-05T17:21:02-04:00",
+            "date_modified": "2026-07-05T17:30:32-04:00"
+        },
+        {
+            "id": "https://rudytrnka.com/dog-problems.html",
+            "url": "https://rudytrnka.com/dog-problems.html",
+            "title": "Dog Problems",
+            "summary": "This is just a playful interaction of a flea and a dog.",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/14/gallery/ComfyUI_00460_.png\" data-size=\"1224x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/14/gallery/ComfyUI_00460_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1059\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/14/gallery/ComfyUI_00393_.png\" data-size=\"1760x1176\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/14/gallery/ComfyUI_00393_-thumbnail.png\" alt=\"\" width=\"768\" height=\"513\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/14/gallery/scan0003.jpg\" data-size=\"953x1626\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/14/gallery/scan0003-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1310\"></a></figure>\n</div></div>\n<p>This is just a playful interaction of a flea and a dog. I am actually pretty happy that I never colored in so much work, leaving me with perfect layouts to learn about the power of AI. The AI images I was experimenting with seeing how it colored in the picture based on my prompts and for these I was testing how it used paint to complete the picture. I was looking for the texture of the paint will keeping the detail of the beads of sweat.</p>",
+            "image": "https://rudytrnka.com/media/posts/14/ComfyUI_00460_.png",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Sketch",
+                   "Characters",
+                   "AI Image"
+            ],
+            "date_published": "2026-07-05T17:16:24-04:00",
+            "date_modified": "2026-07-05T17:16:24-04:00"
+        },
+        {
             "id": "https://rudytrnka.com/big-bang-comedy-tour.html",
             "url": "https://rudytrnka.com/big-bang-comedy-tour.html",
             "title": "Big Bang Comedy Tour",
@@ -153,41 +189,6 @@
             ],
             "date_published": "2026-07-04T20:40:08-04:00",
             "date_modified": "2026-07-04T20:40:08-04:00"
-        },
-        {
-            "id": "https://rudytrnka.com/the-a-team.html",
-            "url": "https://rudytrnka.com/the-a-team.html",
-            "title": "The A Team",
-            "summary": "This is a sketch i made when i was around 5. I&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/5/gallery/20251106_023529-2.jpg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/5/gallery/20251106_023529-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/5/gallery/ComfyUI_00476_-2.png\" data-size=\"1656x1240\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/5/gallery/ComfyUI_00476_-2-thumbnail.png\" alt=\"\" width=\"768\" height=\"575\"></a></figure>\n</div></div>\n<p>This is a sketch i made when i was around 5. I have laughed at myself for many years with this picture I made so very long ago. This was a fun one to feed to AI and see something so old brought to a new life. This was one of my first tests with AI edit models and I told it this was a movie poster and it added text mock up spots. I have since learned alot but both of these are sentimental : )</p>",
-            "image": "https://rudytrnka.com/media/posts/5/ComfyUI_00476_.png",
-            "author": {
-                "name": "Rudy"
-            },
-            "tags": [
-                   "Sketch",
-                   "AI Image"
-            ],
-            "date_published": "2026-07-04T20:23:14-04:00",
-            "date_modified": "2026-07-04T20:33:41-04:00"
-        },
-        {
-            "id": "https://rudytrnka.com/we-come-in-peace.html",
-            "url": "https://rudytrnka.com/we-come-in-peace.html",
-            "title": "We Come in Peace",
-            "summary": "I always love surreal, image within image kind of concepts even while&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/4/gallery/ComfyUI_00452_.png\" data-size=\"1224x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/4/gallery/ComfyUI_00452_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1059\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/4/gallery/scan0020.jpg\" data-size=\"1166x1938\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/4/gallery/scan0020-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1276\"></a></figure>\n</div></div>\n<p>I always love surreal, image within image kind of concepts even while working on characters, so its was fun to feed the black and white image to AI and see it brought to life.</p>",
-            "image": "https://rudytrnka.com/media/posts/4/ComfyUI_00452_.png",
-            "author": {
-                "name": "Rudy"
-            },
-            "tags": [
-                   "Sketch",
-                   "Characters",
-                   "AI Image"
-            ],
-            "date_published": "2026-07-04T20:17:50-04:00",
-            "date_modified": "2026-07-04T20:19:09-04:00"
         }
     ]
 }
