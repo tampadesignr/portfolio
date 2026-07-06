@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://rudytrnka.com/man-with-fish-bowl.html",
+            "url": "https://rudytrnka.com/man-with-fish-bowl.html",
+            "title": "Man with Fish Bowl",
+            "summary": "This is black and white sketch that is one part of a&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/25/gallery/ComfyUI_00455_.png\" data-size=\"1224x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/25/gallery/ComfyUI_00455_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1059\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/25/gallery/scan0015.jpg\" data-size=\"1590x2086\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/25/gallery/scan0015-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1008\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/25/gallery/rave-world-lg.jpg\" data-size=\"770x367\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/25/gallery/rave-world-lg-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"366\"></a></figure>\n</div></div>\n<p>This is black and white sketch that is one part of a large fine art painting I made. This is a surreal piece that I gave to AI to see what it could do with a surreal image. this AI image had its own colorful interpretation of the shapes and how they related. i have included the fine art painting that this sketch was part of.</p>",
+            "image": "https://rudytrnka.com/media/posts/25/ComfyUI_00455_.png",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Sketch",
+                   "Fine Art Painting",
+                   "AI Image"
+            ],
+            "date_published": "2026-07-05T23:12:38-04:00",
+            "date_modified": "2026-07-05T23:14:18-04:00"
+        },
+        {
             "id": "https://rudytrnka.com/friends-forever.html",
             "url": "https://rudytrnka.com/friends-forever.html",
             "title": "Friends Forever",
@@ -169,24 +187,6 @@
             ],
             "date_published": "2026-07-05T17:50:04-04:00",
             "date_modified": "2026-07-05T17:53:22-04:00"
-        },
-        {
-            "id": "https://rudytrnka.com/egyptian-city-sketch.html",
-            "url": "https://rudytrnka.com/egyptian-city-sketch.html",
-            "title": "Egyptian City Sketch",
-            "summary": "My creative process usually starts with a very rough outline of the&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/15/gallery/ComfyUI_00483_.png\" data-size=\"1240x1656\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/15/gallery/ComfyUI_00483_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1026\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/15/gallery/20251106_043427.jpg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/15/gallery/20251106_043427-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div></div>\n<p>My creative process usually starts with a very rough outline of the general composition. This was an idea to incorporate tanks which can be found in hieroglyphs into a collage of perspectives using some ideas of art from the  Egyptian walls and layering that with depth in the flow of the image from top to bottom. I never got further with this concept so this was fun to give to AI and see if it got my idea with minimal prompting. This is my strength in the modern world with technology, the ability to sketch an idea and now hand it off to an AI and have a partner in the creative process. Being able to communicate ideas with drawings helps to drive a concept easier then trying to just prompt directions and hope the AI get the idea. Visual ques from something as simple as this sketch and you can see it got the picture of what i was thinking for each layer.</p>",
-            "image": "https://rudytrnka.com/media/posts/15/ComfyUI_00483_.png",
-            "author": {
-                "name": "Rudy"
-            },
-            "tags": [
-                   "Sketch",
-                   "Rough Sketch",
-                   "AI Image"
-            ],
-            "date_published": "2026-07-05T17:21:02-04:00",
-            "date_modified": "2026-07-05T17:30:32-04:00"
         }
     ]
 }
