@@ -3,12 +3,42 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-07-05T23:14:18-04:00</updated>
+    <updated>2026-07-06T00:18:32-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
+    <entry>
+        <title>Drawing my Friends</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/drawing-my-friends.html"/>
+        <id>https://rudytrnka.com/drawing-my-friends.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/26/ComfyUI_00454_.png" medium="image" />
+            <category term="Sketch"/>
+            <category term="Rough Sketch"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-06T00:18:32-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/26/ComfyUI_00454_.png" alt="" />
+                    This is a fun black and white sketch surreal style. I used&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/26/ComfyUI_00454_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/26/gallery/ComfyUI_00454_.png" data-size="1224x1688"><img loading="lazy" src="https://rudytrnka.com/media/posts/26/gallery/ComfyUI_00454_-thumbnail.png" alt="" width="768" height="1059"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/26/gallery/scan0023.jpg" data-size="1601x2091"><img loading="lazy" src="https://rudytrnka.com/media/posts/26/gallery/scan0023-thumbnail.jpg" alt="" width="768" height="1003"></a></figure>
+</div></div>
+<p>This is a fun black and white sketch surreal style. I used AI testing how it would interpret the shapes, people and creatures in the sketch. I gave it minimal guidance to see what is thought it was seeing. I find AI fun and intriguing because it adds a step to the creative process, in the past when I got stuck on a piece of design, I would have to wait till inspiration hit, now AI as a tool can speed up this process.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Man with Fish Bowl</title>
         <author>
@@ -293,39 +323,6 @@
 <figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/17/gallery/20251106_103728-2.jpg" data-size="4032x3024"><img loading="lazy" src="https://rudytrnka.com/media/posts/17/gallery/20251106_103728-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 </div></div>
 <p>The design of the buildings around my school in Manhattan had interesting architecture, and this was more of appreciation for the simple yet elegant design. I used this sketch for further testing of using an already made layout of the general structure of the image to see how AI would add elements to the composition.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Mighty Giant Enters the Sketch</title>
-        <author>
-            <name>Rudy</name>
-        </author>
-        <link href="https://rudytrnka.com/mighty-giant-enters-the-sketch.html"/>
-        <id>https://rudytrnka.com/mighty-giant-enters-the-sketch.html</id>
-        <media:content url="https://rudytrnka.com/media/posts/16/ComfyUI_080418_494996367663489_00039.png" medium="image" />
-            <category term="Sketch"/>
-            <category term="Rough Sketch"/>
-            <category term="Characters"/>
-            <category term="AI Image"/>
-
-        <updated>2026-07-05T17:50:04-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://rudytrnka.com/media/posts/16/ComfyUI_080418_494996367663489_00039.png" alt="" />
-                    When i was learning to draw the world around me, I drew&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://rudytrnka.com/media/posts/16/ComfyUI_080418_494996367663489_00039.png" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/16/gallery/ComfyUI_080418_494996367663489_00039.png" data-size="1584x1056"><img loading="lazy" src="https://rudytrnka.com/media/posts/16/gallery/ComfyUI_080418_494996367663489_00039-thumbnail.png" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/16/gallery/ComfyUI_075937_847805584681167_00036.png" data-size="1584x1056"><img loading="lazy" src="https://rudytrnka.com/media/posts/16/gallery/ComfyUI_075937_847805584681167_00036-thumbnail.png" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/16/gallery/ComfyUI_00473_.png" data-size="1656x1240"><img loading="lazy" src="https://rudytrnka.com/media/posts/16/gallery/ComfyUI_00473_-thumbnail.png" alt="" width="768" height="575"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/16/gallery/20251106_111501.jpg" data-size="4032x3024"><img loading="lazy" src="https://rudytrnka.com/media/posts/16/gallery/20251106_111501-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-</div></div>
-<p>When i was learning to draw the world around me, I drew everything. This is an unfinished study of a SUV on the street of my dorm in Manhattan at F.I.T college. My perspective is off on the car view that is why you keep drawing and strengthening your ability to translate the world onto paper. I used this sketch with AI testing its ability to tell a story around my original elements of the drawing. For this test of AI my first thought was to test something AI struggled to create which was the concept of just seeing a giant's feet. Once I had the feet, something was missing, so i added some characters to the concept, which then lead to the final idea to have them looking up to tie all elements together into a cohesive story.</p>
             ]]>
         </content>
     </entry>
