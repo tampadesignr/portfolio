@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://rudytrnka.com/friends-forever.html",
+            "url": "https://rudytrnka.com/friends-forever.html",
+            "title": "Friends Forever",
+            "summary": "This is a not the best version of this drawing I made&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/24/gallery/ComfyUI_00438_.png\" data-size=\"1768x1168\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/24/gallery/ComfyUI_00438_-thumbnail.png\" alt=\"\" width=\"768\" height=\"507\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/24/gallery/ComfyUI_00436_.png\" data-size=\"1768x1168\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/24/gallery/ComfyUI_00436_-thumbnail.png\" alt=\"\" width=\"768\" height=\"507\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/24/gallery/ComfyUI_00434_.png\" data-size=\"1768x1168\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/24/gallery/ComfyUI_00434_-thumbnail.png\" alt=\"\" width=\"768\" height=\"507\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/24/gallery/girl-with-dog-lg.jpg\" data-size=\"598x396\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/24/gallery/girl-with-dog-lg-thumbnail.jpg\" alt=\"\" width=\"598\" height=\"396\"></a></figure>\n</div></div>\n<p>This is a not the best version of this drawing I made a long time ago, the digital copy has a lot of extra noise, but you can see my style, I added a touch of whimsy to the picture I drew this portrait of a friend and her dog. The color versions are the AI versions I made while seeing how much additional whimsy I could add while maintaining the original black and white drawing style. I also experimented with extending the original image by making the size of the AI image larger then the input.</p>",
+            "image": "https://rudytrnka.com/media/posts/24/girl-with-dog-lg.jpg",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Sketch",
+                   "AI Image"
+            ],
+            "date_published": "2026-07-05T22:44:58-04:00",
+            "date_modified": "2026-07-05T22:54:58-04:00"
+        },
+        {
             "id": "https://rudytrnka.com/blur-the-line.html",
             "url": "https://rudytrnka.com/blur-the-line.html",
             "title": "Blur the Line",
@@ -170,24 +187,6 @@
             ],
             "date_published": "2026-07-05T17:21:02-04:00",
             "date_modified": "2026-07-05T17:30:32-04:00"
-        },
-        {
-            "id": "https://rudytrnka.com/dog-problems.html",
-            "url": "https://rudytrnka.com/dog-problems.html",
-            "title": "Dog Problems",
-            "summary": "This is just a playful interaction of a flea and a dog.",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/14/gallery/ComfyUI_00460_.png\" data-size=\"1224x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/14/gallery/ComfyUI_00460_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1059\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/14/gallery/ComfyUI_00393_.png\" data-size=\"1760x1176\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/14/gallery/ComfyUI_00393_-thumbnail.png\" alt=\"\" width=\"768\" height=\"513\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/14/gallery/scan0003.jpg\" data-size=\"953x1626\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/14/gallery/scan0003-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1310\"></a></figure>\n</div></div>\n<p>This is just a playful interaction of a flea and a dog. I am actually pretty happy that I never colored in so much work, leaving me with perfect layouts to learn about the power of AI. The AI images I was experimenting with seeing how it colored in the picture based on my prompts and for these I was testing how it used paint to complete the picture. I was looking for the texture of the paint will keeping the detail of the beads of sweat.</p>",
-            "image": "https://rudytrnka.com/media/posts/14/ComfyUI_00460_.png",
-            "author": {
-                "name": "Rudy"
-            },
-            "tags": [
-                   "Sketch",
-                   "Characters",
-                   "AI Image"
-            ],
-            "date_published": "2026-07-05T17:16:24-04:00",
-            "date_modified": "2026-07-05T17:16:24-04:00"
         }
     ]
 }
