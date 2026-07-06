@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://rudytrnka.com/graffiti-presto-swirl.html",
+            "url": "https://rudytrnka.com/graffiti-presto-swirl.html",
+            "title": "Graffiti Presto Swirl",
+            "summary": "Every art at one point or another has done some form of&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/28/gallery/ComfyUI_00453_.png\" data-size=\"1224x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/28/gallery/ComfyUI_00453_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1059\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/28/gallery/scan0022.jpg\" data-size=\"1648x2250\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/28/gallery/scan0022-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1049\"></a></figure>\n</div></div>\n<p>Every art at one point or another has done some form of graffiti art style. I choose Presto a very long time ago as my graffiti name to develop and design with. When you try to draw the same word over and over trying to improve, or just to create a new version, this process is the equivalent to going to a gym to workout your body, except this process is a workout for your mind. I am excited every time I give AI one of my original works of art, sitting with anticipation waiting less then a minute to see a simple line artwork turned into a full color piece. I did not give much guidance to AI to learn how it thinks before taking full control of the direction. </p>",
+            "image": "https://rudytrnka.com/media/posts/28/ComfyUI_00453_.png",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Sketch",
+                   "Graffiti",
+                   "AI Image"
+            ],
+            "date_published": "2026-07-06T01:13:04-04:00",
+            "date_modified": "2026-07-06T01:14:02-04:00"
+        },
+        {
             "id": "https://rudytrnka.com/money-monster.html",
             "url": "https://rudytrnka.com/money-monster.html",
             "title": "Money Monster",
@@ -166,24 +184,6 @@
             ],
             "date_published": "2026-07-05T18:44:17-04:00",
             "date_modified": "2026-07-05T19:01:23-04:00"
-        },
-        {
-            "id": "https://rudytrnka.com/football-coliseum.html",
-            "url": "https://rudytrnka.com/football-coliseum.html",
-            "title": "Football Coliseum",
-            "summary": "When you are learning to draw, the best way to get better&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/18/gallery/20251106_093159.jpg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/18/gallery/20251106_093159-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/18/gallery/ComfyUI_00491_.png\" data-size=\"1656x1240\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/18/gallery/ComfyUI_00491_-thumbnail.png\" alt=\"\" width=\"768\" height=\"575\"></a></figure>\n</div></div>\n<p>When you are learning to draw, the best way to get better is to draw everything, which was why I drew this picture of American football players in the middle of a play. I wanted to convey the event with minimal lines and color to tell the story. I used AI with this picture testing AI ability to use parts of the composition like the players but changing them to Romans and adding whimsical elements in the spirit of the myths of the ancient roman coliseums.</p>",
-            "image": "https://rudytrnka.com/media/posts/18/ComfyUI_00491_.png",
-            "author": {
-                "name": "Rudy"
-            },
-            "tags": [
-                   "Sketch",
-                   "Characters",
-                   "AI Image"
-            ],
-            "date_published": "2026-07-05T18:21:55-04:00",
-            "date_modified": "2026-07-05T18:22:12-04:00"
         }
     ]
 }
