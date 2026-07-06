@@ -3,12 +3,45 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-07-05T19:35:36-04:00</updated>
+    <updated>2026-07-05T22:02:30-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
+    <entry>
+        <title>Blur the Line</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/blur-the-line.html"/>
+        <id>https://rudytrnka.com/blur-the-line.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/23/ComfyUI_00558_.png" medium="image" />
+            <category term="Print Design"/>
+            <category term="Photoshop"/>
+            <category term="Characters"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-05T22:02:30-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/23/ComfyUI_00558_.png" alt="" />
+                    This is a print advertisement for a unique clothing material. This image&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/23/ComfyUI_00558_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/23/gallery/skater_l.jpg" data-size="333x500"><img loading="lazy" src="https://rudytrnka.com/media/posts/23/gallery/skater_l-thumbnail.jpg" alt="" width="333" height="500"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/23/gallery/ComfyUI_00562_.png" data-size="1240x1656"><img loading="lazy" src="https://rudytrnka.com/media/posts/23/gallery/ComfyUI_00562_-thumbnail.png" alt="" width="768" height="1026"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/23/gallery/ComfyUI_00558_.png" data-size="1240x1656"><img loading="lazy" src="https://rudytrnka.com/media/posts/23/gallery/ComfyUI_00558_-thumbnail.png" alt="" width="768" height="1026"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/23/gallery/ComfyUI_00541_.png" data-size="1240x1656"><img loading="lazy" src="https://rudytrnka.com/media/posts/23/gallery/ComfyUI_00541_-thumbnail.png" alt="" width="768" height="1026"></a></figure>
+</div></div>
+<p>This is a print advertisement for a unique clothing material. This image was fabricated in Photoshop. I used this for an AI image input to test AI ability to use the general composition of the image and the likeness of the skater while removing the text and adding new elements. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Groovy City</title>
         <author>
@@ -292,41 +325,6 @@
 <figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/14/gallery/scan0003.jpg" data-size="953x1626"><img loading="lazy" src="https://rudytrnka.com/media/posts/14/gallery/scan0003-thumbnail.jpg" alt="" width="768" height="1310"></a></figure>
 </div></div>
 <p>This is just a playful interaction of a flea and a dog. I am actually pretty happy that I never colored in so much work, leaving me with perfect layouts to learn about the power of AI. The AI images I was experimenting with seeing how it colored in the picture based on my prompts and for these I was testing how it used paint to complete the picture. I was looking for the texture of the paint will keeping the detail of the beads of sweat.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Big Bang Comedy Tour</title>
-        <author>
-            <name>Rudy</name>
-        </author>
-        <link href="https://rudytrnka.com/big-bang-comedy-tour.html"/>
-        <id>https://rudytrnka.com/big-bang-comedy-tour.html</id>
-        <media:content url="https://rudytrnka.com/media/posts/13/Qwen_Edit_2511_00157_.png" medium="image" />
-            <category term="Sketch"/>
-            <category term="Logo Design"/>
-            <category term="AI Image"/>
-
-        <updated>2026-07-05T01:10:41-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://rudytrnka.com/media/posts/13/Qwen_Edit_2511_00157_.png" alt="" />
-                    The concept for this logo was to create the energy and feel&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://rudytrnka.com/media/posts/13/Qwen_Edit_2511_00157_.png" class="type:primaryImage" alt="" /></p>
-                <p> </p>
-<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00144_.png" data-size="1024x1024"><img loading="lazy" src="https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00144_-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/13/gallery/IMG679.jpg" data-size="1280x960"><img loading="lazy" src="https://rudytrnka.com/media/posts/13/gallery/IMG679-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00145_.png" data-size="1024x1024"><img loading="lazy" src="https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00145_-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00146_.png" data-size="1024x1024"><img loading="lazy" src="https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00146_-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00147_.png" data-size="1024x1024"><img loading="lazy" src="https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00147_-thumbnail.png" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00151_.png" data-size="1024x1024"><img loading="lazy" src="https://rudytrnka.com/media/posts/13/gallery/Qwen_Edit_2511_00151_-thumbnail.png" alt="" width="768" height="768"></a></figure>
-</div></div>
-<p>The concept for this logo was to create the energy and feel of big and showing a bang and the typical bomb explosion cloud around a microphone I feel sells the idea, while relating to the mental visual picture created by this combination of words and imagery. This logo I used to test a few styles changes to see how AI handles this kind of imagery. Then I used AI to apply the logo concept to a mock-up location. I did not try to refine the logo with these images, I was more interested in AI ability to apply styles to words and imagery.</p>
             ]]>
         </content>
     </entry>
