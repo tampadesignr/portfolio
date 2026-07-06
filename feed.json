@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://rudytrnka.com/money-monster.html",
+            "url": "https://rudytrnka.com/money-monster.html",
+            "title": "Money Monster",
+            "summary": "Time has not been kind to my original black and white drawing.",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/27/gallery/20251106_051321.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/27/gallery/20251106_051321-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00619_.png\" data-size=\"1240x1656\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00619_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1026\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00617_.png\" data-size=\"1240x1656\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00617_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1026\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00616_.png\" data-size=\"1240x1656\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00616_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1026\"></a></figure>\n</div></div>\n<p>Time has not been kind to my original black and white drawing. I will have to try a full restoration using AI. I did use AI for the section that was okay. I gave it minimal guidance to what to create because i wanted to see how it interpreted the design. As you can see from the results it got the idea I was trying to convey with my design.</p>",
+            "image": "https://rudytrnka.com/media/posts/27/ComfyUI_00617_.png",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Sketch",
+                   "AI Image"
+            ],
+            "date_published": "2026-07-06T00:35:59-04:00",
+            "date_modified": "2026-07-06T00:35:59-04:00"
+        },
+        {
             "id": "https://rudytrnka.com/drawing-my-friends.html",
             "url": "https://rudytrnka.com/drawing-my-friends.html",
             "title": "Drawing my Friends",
@@ -167,25 +184,6 @@
             ],
             "date_published": "2026-07-05T18:21:55-04:00",
             "date_modified": "2026-07-05T18:22:12-04:00"
-        },
-        {
-            "id": "https://rudytrnka.com/building-study.html",
-            "url": "https://rudytrnka.com/building-study.html",
-            "title": "Building Study",
-            "summary": "The design of the buildings around my school in Manhattan had interesting&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/17/gallery/ComfyUI_00494_.png\" data-size=\"1656x1240\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/17/gallery/ComfyUI_00494_-thumbnail.png\" alt=\"\" width=\"768\" height=\"575\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/17/gallery/20251106_103728-2.jpg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/17/gallery/20251106_103728-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div></div>\n<p>The design of the buildings around my school in Manhattan had interesting architecture, and this was more of appreciation for the simple yet elegant design. I used this sketch for further testing of using an already made layout of the general structure of the image to see how AI would add elements to the composition.</p>",
-            "image": "https://rudytrnka.com/media/posts/17/ComfyUI_00494_.png",
-            "author": {
-                "name": "Rudy"
-            },
-            "tags": [
-                   "Sketch",
-                   "Rough Sketch",
-                   "Characters",
-                   "AI Image"
-            ],
-            "date_published": "2026-07-05T18:01:33-04:00",
-            "date_modified": "2026-07-05T18:01:33-04:00"
         }
     ]
 }

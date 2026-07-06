@@ -3,12 +3,43 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-07-06T00:18:32-04:00</updated>
+    <updated>2026-07-06T00:35:59-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
+    <entry>
+        <title>Money Monster</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/money-monster.html"/>
+        <id>https://rudytrnka.com/money-monster.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/27/ComfyUI_00617_.png" medium="image" />
+            <category term="Sketch"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-06T00:35:59-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/27/ComfyUI_00617_.png" alt="" />
+                    Time has not been kind to my original black and white drawing.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/27/ComfyUI_00617_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/27/gallery/20251106_051321.jpg" data-size="3024x4032"><img loading="lazy" src="https://rudytrnka.com/media/posts/27/gallery/20251106_051321-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00619_.png" data-size="1240x1656"><img loading="lazy" src="https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00619_-thumbnail.png" alt="" width="768" height="1026"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00617_.png" data-size="1240x1656"><img loading="lazy" src="https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00617_-thumbnail.png" alt="" width="768" height="1026"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00616_.png" data-size="1240x1656"><img loading="lazy" src="https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00616_-thumbnail.png" alt="" width="768" height="1026"></a></figure>
+</div></div>
+<p>Time has not been kind to my original black and white drawing. I will have to try a full restoration using AI. I did use AI for the section that was okay. I gave it minimal guidance to what to create because i wanted to see how it interpreted the design. As you can see from the results it got the idea I was trying to convey with my design.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Drawing my Friends</title>
         <author>
@@ -292,37 +323,6 @@
 <figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/18/gallery/ComfyUI_00491_.png" data-size="1656x1240"><img loading="lazy" src="https://rudytrnka.com/media/posts/18/gallery/ComfyUI_00491_-thumbnail.png" alt="" width="768" height="575"></a></figure>
 </div></div>
 <p>When you are learning to draw, the best way to get better is to draw everything, which was why I drew this picture of American football players in the middle of a play. I wanted to convey the event with minimal lines and color to tell the story. I used AI with this picture testing AI ability to use parts of the composition like the players but changing them to Romans and adding whimsical elements in the spirit of the myths of the ancient roman coliseums.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Building Study</title>
-        <author>
-            <name>Rudy</name>
-        </author>
-        <link href="https://rudytrnka.com/building-study.html"/>
-        <id>https://rudytrnka.com/building-study.html</id>
-        <media:content url="https://rudytrnka.com/media/posts/17/ComfyUI_00494_.png" medium="image" />
-            <category term="Sketch"/>
-            <category term="Rough Sketch"/>
-            <category term="Characters"/>
-            <category term="AI Image"/>
-
-        <updated>2026-07-05T18:01:33-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://rudytrnka.com/media/posts/17/ComfyUI_00494_.png" alt="" />
-                    The design of the buildings around my school in Manhattan had interesting&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://rudytrnka.com/media/posts/17/ComfyUI_00494_.png" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/17/gallery/ComfyUI_00494_.png" data-size="1656x1240"><img loading="lazy" src="https://rudytrnka.com/media/posts/17/gallery/ComfyUI_00494_-thumbnail.png" alt="" width="768" height="575"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/17/gallery/20251106_103728-2.jpg" data-size="4032x3024"><img loading="lazy" src="https://rudytrnka.com/media/posts/17/gallery/20251106_103728-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-</div></div>
-<p>The design of the buildings around my school in Manhattan had interesting architecture, and this was more of appreciation for the simple yet elegant design. I used this sketch for further testing of using an already made layout of the general structure of the image to see how AI would add elements to the composition.</p>
             ]]>
         </content>
     </entry>
