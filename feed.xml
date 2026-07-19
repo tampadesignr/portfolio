@@ -3,12 +3,49 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-07-18T21:56:58-04:00</updated>
+    <updated>2026-07-19T00:45:42-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
+    <entry>
+        <title>Forest Creatures</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/forest-creatures.html"/>
+        <id>https://rudytrnka.com/forest-creatures.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/34/Qwen_Edit_2511_00733_.png" medium="image" />
+            <category term="Sketch"/>
+            <category term="Rough Sketch"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-19T00:44:04-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/34/Qwen_Edit_2511_00733_.png" alt="" />
+                    This is one of my exercise pages, I draw a fun landscape&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/34/Qwen_Edit_2511_00733_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/34/gallery/Qwen_Edit_2511_00739_.png" data-size="1104x1480"><img loading="lazy" src="https://rudytrnka.com/media/posts/34/gallery/Qwen_Edit_2511_00739_-thumbnail.png" alt="" width="768" height="1030"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/34/gallery/scan0004.jpg" data-size="1578x2119"><img loading="lazy" src="https://rudytrnka.com/media/posts/34/gallery/scan0004-thumbnail.jpg" alt="" width="768" height="1031"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/34/gallery/Qwen_Edit_2511_00737_.png" data-size="1104x1480"><img loading="lazy" src="https://rudytrnka.com/media/posts/34/gallery/Qwen_Edit_2511_00737_-thumbnail.png" alt="" width="768" height="1030"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/34/gallery/Qwen_Edit_2511_00736_.png" data-size="1104x1480"><img loading="lazy" src="https://rudytrnka.com/media/posts/34/gallery/Qwen_Edit_2511_00736_-thumbnail.png" alt="" width="768" height="1030"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/34/gallery/Qwen_Edit_2511_00735_.png" data-size="1104x1480"><img loading="lazy" src="https://rudytrnka.com/media/posts/34/gallery/Qwen_Edit_2511_00735_-thumbnail.png" alt="" width="768" height="1030"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/34/gallery/Qwen_Edit_2511_00734_.png" data-size="1104x1480"><img loading="lazy" src="https://rudytrnka.com/media/posts/34/gallery/Qwen_Edit_2511_00734_-thumbnail.png" alt="" width="768" height="1030"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/34/gallery/Qwen_Edit_2511_00733_.png" data-size="1104x1480"><img loading="lazy" src="https://rudytrnka.com/media/posts/34/gallery/Qwen_Edit_2511_00733_-thumbnail.png" alt="" width="768" height="1030"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/34/gallery/Qwen_Edit_2511_00732_.png" data-size="1104x1480"><img loading="lazy" src="https://rudytrnka.com/media/posts/34/gallery/Qwen_Edit_2511_00732_-thumbnail.png" alt="" width="768" height="1030"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/34/gallery/Qwen_Edit_2511_00731_.png" data-size="1104x1480"><img loading="lazy" src="https://rudytrnka.com/media/posts/34/gallery/Qwen_Edit_2511_00731_-thumbnail.png" alt="" width="768" height="1030"></a></figure>
+</div></div>
+<p>This is one of my exercise pages, I draw a fun landscape to stretch the mind as a warm up, and in an effort to mix things up, I added character with a touch of whimsy and to explore a look blacked in a section with marker . For the AI image I was curious of it's interpretation of the contrast in mediums, and gave it a few different prompts to see how it changed it's method of style.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Baby Boomer</title>
         <author>
@@ -306,37 +343,6 @@
 <figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/25/gallery/rave-world-lg.jpg" data-size="770x367"><img loading="lazy" src="https://rudytrnka.com/media/posts/25/gallery/rave-world-lg-thumbnail.jpg" alt="" width="768" height="366"></a></figure>
 </div></div>
 <p>This is black and white sketch that is one part of a large fine art painting I made. This is a surreal piece that I gave to AI to see what it could do with a surreal image. this AI image had its own colorful interpretation of the shapes and how they related. i have included the fine art painting that this sketch was part of.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Friends Forever</title>
-        <author>
-            <name>Rudy</name>
-        </author>
-        <link href="https://rudytrnka.com/friends-forever.html"/>
-        <id>https://rudytrnka.com/friends-forever.html</id>
-        <media:content url="https://rudytrnka.com/media/posts/24/ComfyUI_00434_.png" medium="image" />
-            <category term="Sketch"/>
-            <category term="AI Image"/>
-
-        <updated>2026-07-05T22:44:58-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://rudytrnka.com/media/posts/24/ComfyUI_00434_.png" alt="" />
-                    This is a not the best version of this drawing I made&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://rudytrnka.com/media/posts/24/ComfyUI_00434_.png" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/24/gallery/ComfyUI_00438_.png" data-size="1768x1168"><img loading="lazy" src="https://rudytrnka.com/media/posts/24/gallery/ComfyUI_00438_-thumbnail.png" alt="" width="768" height="507"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/24/gallery/ComfyUI_00436_.png" data-size="1768x1168"><img loading="lazy" src="https://rudytrnka.com/media/posts/24/gallery/ComfyUI_00436_-thumbnail.png" alt="" width="768" height="507"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/24/gallery/ComfyUI_00434_.png" data-size="1768x1168"><img loading="lazy" src="https://rudytrnka.com/media/posts/24/gallery/ComfyUI_00434_-thumbnail.png" alt="" width="768" height="507"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/24/gallery/girl-with-dog-lg.jpg" data-size="598x396"><img loading="lazy" src="https://rudytrnka.com/media/posts/24/gallery/girl-with-dog-lg-thumbnail.jpg" alt="" width="598" height="396"></a></figure>
-</div></div>
-<p>This is a not the best version of this drawing I made a long time ago, the digital copy has a lot of extra noise, but you can see my style, I added a touch of whimsy to the picture I drew this portrait of a friend and her dog. The color versions are the AI versions I made while seeing how much additional whimsy I could add while maintaining the original black and white drawing style. I also experimented with extending the original image by making the size of the AI image larger then the input.</p>
             ]]>
         </content>
     </entry>
