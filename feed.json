@@ -11,23 +11,6 @@
     },
     "items": [
         {
-            "id": "https://rudytrnka.com/cat-chilling-in-wonderland.html",
-            "url": "https://rudytrnka.com/cat-chilling-in-wonderland.html",
-            "title": "Cat Chilling in Wonderland",
-            "summary": "This is a surreal exercise game drawing done with marker. I start&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/37/gallery/Qwen_Edit_2511_00795_.png\" data-size=\"1208x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/37/gallery/Qwen_Edit_2511_00795_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1073\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/37/gallery/scan0005.jpg\" data-size=\"1513x2110\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/37/gallery/scan0005-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1071\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/37/gallery/Qwen_Edit_2511_00783_.png\" data-size=\"1208x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/37/gallery/Qwen_Edit_2511_00783_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1073\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/37/gallery/Qwen_Edit_2511_00779_.png\" data-size=\"1208x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/37/gallery/Qwen_Edit_2511_00779_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1073\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/37/gallery/Qwen_Edit_2511_00777_.png\" data-size=\"1208x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/37/gallery/Qwen_Edit_2511_00777_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1073\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/37/gallery/ComfyUI_00461_.png\" data-size=\"1224x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/37/gallery/ComfyUI_00461_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1059\"></a></figure>\n</div></div>\n<p>This is a surreal exercise game drawing done with marker. I start with no direction and since the marker is permanent once you make a line you have to build off that line and continue till you feel the design is complete. There are no rules to this to this game other then fun and exploring the beautiful world of creating. I live by Bob Ross rules, there are no mistakes only happy accidents, and how he always transformed what was a happy accidents into something beautiful. This is one of my versions of his method. This was challenging with AI however as an AI artist you learn a lot about what the model see's and what it does with different intersecting designs. I tried different prompting different patterns having fun and also learning, here are a few results.</p>",
-            "image": "https://rudytrnka.com/media/posts/37/ComfyUI_00461_.png",
-            "author": {
-                "name": "Rudy"
-            },
-            "tags": [
-                   "Sketch",
-                   "AI Image"
-            ],
-            "date_published": "2026-07-20T02:56:09-04:00",
-            "date_modified": "2026-07-20T03:09:31-04:00"
-        },
-        {
             "id": "https://rudytrnka.com/bugout-club.html",
             "url": "https://rudytrnka.com/bugout-club.html",
             "title": "Bugout Club",
@@ -188,6 +171,23 @@
             ],
             "date_published": "2026-07-06T01:13:04-04:00",
             "date_modified": "2026-07-06T01:18:30-04:00"
+        },
+        {
+            "id": "https://rudytrnka.com/money-monster.html",
+            "url": "https://rudytrnka.com/money-monster.html",
+            "title": "Money Monster",
+            "summary": "Time has not been kind to my original black and white drawing.",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/27/gallery/20251106_051321.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/27/gallery/20251106_051321-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00619_.png\" data-size=\"1240x1656\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00619_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1026\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00617_.png\" data-size=\"1240x1656\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00617_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1026\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00616_.png\" data-size=\"1240x1656\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00616_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1026\"></a></figure>\n</div></div>\n<p>Time has not been kind to my original black and white drawing. I will have to try a full restoration using AI. I did use AI for the section that was okay. I gave it minimal guidance to what to create because i wanted to see how it interpreted the design. As you can see from the results it got the idea I was trying to convey with my design.</p>",
+            "image": "https://rudytrnka.com/media/posts/27/ComfyUI_00617_.png",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Sketch",
+                   "AI Image"
+            ],
+            "date_published": "2026-07-06T00:35:59-04:00",
+            "date_modified": "2026-07-06T00:35:59-04:00"
         }
     ]
 }
