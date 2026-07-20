@@ -3,12 +3,46 @@
     <title>rudytrnka.com</title>
     <link href="https://rudytrnka.com/feed.xml" rel="self" />
     <link href="https://rudytrnka.com" />
-    <updated>2026-07-19T01:01:24-04:00</updated>
+    <updated>2026-07-20T02:45:23-04:00</updated>
     <author>
         <name>Rudy</name>
     </author>
     <id>https://rudytrnka.com</id>
 
+    <entry>
+        <title>Bugout Club</title>
+        <author>
+            <name>Rudy</name>
+        </author>
+        <link href="https://rudytrnka.com/bugout-club.html"/>
+        <id>https://rudytrnka.com/bugout-club.html</id>
+        <media:content url="https://rudytrnka.com/media/posts/36/Qwen_Edit_2511_01338_.png" medium="image" />
+            <category term="Sketch"/>
+            <category term="Rough Sketch"/>
+            <category term="AI Image"/>
+
+        <updated>2026-07-19T03:54:34-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://rudytrnka.com/media/posts/36/Qwen_Edit_2511_01338_.png" alt="" />
+                    Just a fun sketch of a character, an odd bug guy that&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rudytrnka.com/media/posts/36/Qwen_Edit_2511_01338_.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01305_.png" data-size="1328x1328"><img loading="lazy" src="https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01305_-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/36/gallery/scan0011.jpg" data-size="954x1937"><img loading="lazy" src="https://rudytrnka.com/media/posts/36/gallery/scan0011-thumbnail.jpg" alt="" width="768" height="1559"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01304_.png" data-size="1328x1328"><img loading="lazy" src="https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01304_-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01324_.png" data-size="1328x1328"><img loading="lazy" src="https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01324_-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01332_.png" data-size="1328x1328"><img loading="lazy" src="https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01332_-thumbnail.png" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01338_.png" data-size="1328x1328"><img loading="lazy" src="https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01338_-thumbnail.png" alt="" width="768" height="768"></a></figure>
+</div></div>
+<p>Just a fun sketch of a character, an odd bug guy that everytime I see him I think he is standing outside a club. So given how I always see him, I had to use AI and put him outside a club surrounded by people trying to get into the club. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Breaking Free of Time</title>
         <author>
@@ -312,36 +346,6 @@
 <figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00616_.png" data-size="1240x1656"><img loading="lazy" src="https://rudytrnka.com/media/posts/27/gallery/ComfyUI_00616_-thumbnail.png" alt="" width="768" height="1026"></a></figure>
 </div></div>
 <p>Time has not been kind to my original black and white drawing. I will have to try a full restoration using AI. I did use AI for the section that was okay. I gave it minimal guidance to what to create because i wanted to see how it interpreted the design. As you can see from the results it got the idea I was trying to convey with my design.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Drawing my Friends</title>
-        <author>
-            <name>Rudy</name>
-        </author>
-        <link href="https://rudytrnka.com/drawing-my-friends.html"/>
-        <id>https://rudytrnka.com/drawing-my-friends.html</id>
-        <media:content url="https://rudytrnka.com/media/posts/26/ComfyUI_00454_.png" medium="image" />
-            <category term="Sketch"/>
-            <category term="Rough Sketch"/>
-            <category term="AI Image"/>
-
-        <updated>2026-07-06T00:18:32-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://rudytrnka.com/media/posts/26/ComfyUI_00454_.png" alt="" />
-                    This is a fun black and white sketch surreal style. I used&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://rudytrnka.com/media/posts/26/ComfyUI_00454_.png" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/26/gallery/ComfyUI_00454_.png" data-size="1224x1688"><img loading="lazy" src="https://rudytrnka.com/media/posts/26/gallery/ComfyUI_00454_-thumbnail.png" alt="" width="768" height="1059"></a></figure>
-<figure class="gallery__item"><a href="https://rudytrnka.com/media/posts/26/gallery/scan0023.jpg" data-size="1601x2091"><img loading="lazy" src="https://rudytrnka.com/media/posts/26/gallery/scan0023-thumbnail.jpg" alt="" width="768" height="1003"></a></figure>
-</div></div>
-<p>This is a fun black and white sketch surreal style. I used AI testing how it would interpret the shapes, people and creatures in the sketch. I gave it minimal guidance to see what is thought it was seeing. I find AI fun and intriguing because it adds a step to the creative process, in the past when I got stuck on a piece of design, I would have to wait till inspiration hit, now AI as a tool can speed up this process.</p>
             ]]>
         </content>
     </entry>
