@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://rudytrnka.com/never-forgotten.html",
+            "url": "https://rudytrnka.com/never-forgotten.html",
+            "title": "Never forgotten",
+            "summary": "This was a rough sketch for a concept I had to honor&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/46/gallery/Qwen_Edit_2511_00081_.png\" data-size=\"1208x904\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/46/gallery/Qwen_Edit_2511_00081_-thumbnail.png\" alt=\"\" width=\"768\" height=\"575\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/46/gallery/20251106_121853-2.jpg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/46/gallery/20251106_121853-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/46/gallery/Qwen_Edit_2511_00083_.png\" data-size=\"1208x904\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/46/gallery/Qwen_Edit_2511_00083_-thumbnail.png\" alt=\"\" width=\"768\" height=\"575\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/46/gallery/Qwen_Edit_2511_00090_.png\" data-size=\"1208x904\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/46/gallery/Qwen_Edit_2511_00090_-thumbnail.png\" alt=\"\" width=\"768\" height=\"575\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/46/gallery/Qwen_Edit_2511_00092_.png\" data-size=\"1208x904\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/46/gallery/Qwen_Edit_2511_00092_-thumbnail.png\" alt=\"\" width=\"768\" height=\"575\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/46/gallery/Qwen_Edit_2511_00097_.png\" data-size=\"1208x904\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/46/gallery/Qwen_Edit_2511_00097_-thumbnail.png\" alt=\"\" width=\"768\" height=\"575\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/46/gallery/Qwen_Edit_2511_00103_.png\" data-size=\"1208x904\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/46/gallery/Qwen_Edit_2511_00103_-thumbnail.png\" alt=\"\" width=\"768\" height=\"575\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/46/gallery/Qwen_Edit_2511_00104_.png\" data-size=\"1208x904\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/46/gallery/Qwen_Edit_2511_00104_-thumbnail.png\" alt=\"\" width=\"768\" height=\"575\"></a></figure>\n</div></div>\n<p>This was a rough sketch for a concept I had to honor the fallen hero's, a beach of dreams unseen by the living world. A place where the hero's watch over the living world. A place that lives in the mind of those who live because hero's give their life to save other no matter the cost. The buildings live on in spirit preserved by the fallen who live on in our memories. I never had time to draw this concept and it was a perfect candidate to see what AI could do with my rough sketch.</p>",
+            "image": "https://rudytrnka.com/media/posts/46/Qwen_Edit_2511_00103_.png",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Rough Sketch",
+                   "AI Image"
+            ],
+            "date_published": "2026-07-23T22:29:40-04:00",
+            "date_modified": "2026-07-23T22:38:18-04:00"
+        },
+        {
             "id": "https://rudytrnka.com/beauty-of-emptiness.html",
             "url": "https://rudytrnka.com/beauty-of-emptiness.html",
             "title": "Beauty of Emptiness",
@@ -175,24 +192,6 @@
             ],
             "date_published": "2026-07-19T03:54:34-04:00",
             "date_modified": "2026-07-20T02:45:23-04:00"
-        },
-        {
-            "id": "https://rudytrnka.com/breaking-free-of-time.html",
-            "url": "https://rudytrnka.com/breaking-free-of-time.html",
-            "title": "Breaking Free of Time",
-            "summary": "This rough sketch is inspired by what mediation can do for the&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/35/gallery/Qwen_Edit_2511_01076_.png\" data-size=\"1400x992\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/35/gallery/Qwen_Edit_2511_01076_-thumbnail.png\" alt=\"\" width=\"768\" height=\"544\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/35/gallery/IMG_20131211_101622-trimmed.jpg\" data-size=\"2341x1663\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/35/gallery/IMG_20131211_101622-trimmed-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"546\"></a></figure>\n</div></div>\n<p>This rough sketch is inspired by what mediation can do for the human mind. When you take some time for yourself and forget the worries of the day. The concept of the image is taken from the pendulum that swings in a grandfather clock. The AI is still a work in progress, but the imagery AI create from the sketch is still pretty : )</p>",
-            "image": "https://rudytrnka.com/media/posts/35/Qwen_Edit_2511_01076_.png",
-            "author": {
-                "name": "Rudy"
-            },
-            "tags": [
-                   "Sketch",
-                   "Rough Sketch",
-                   "AI Image"
-            ],
-            "date_published": "2026-07-19T01:01:24-04:00",
-            "date_modified": "2026-07-19T01:01:24-04:00"
         }
     ]
 }
