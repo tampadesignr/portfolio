@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://rudytrnka.com/college-t-shirt-design.html",
+            "url": "https://rudytrnka.com/college-t-shirt-design.html",
+            "title": "College T-Shirt Design",
+            "summary": "This is a fun design for a t-shirt for our college block&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/47/gallery/fit-party-tshirt-large.jpg\" data-size=\"389x600\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/47/gallery/fit-party-tshirt-large-thumbnail.jpg\" alt=\"\" width=\"389\" height=\"600\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/47/gallery/ComfyUI_00451_.png\" data-size=\"1224x1688\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/47/gallery/ComfyUI_00451_-thumbnail.png\" alt=\"\" width=\"768\" height=\"1059\"></a></figure>\n</div></div>\n<p>This is a fun design for a t-shirt for our college block party. So many years later this was fun to think about the good ole days in college and add a little color to this design with AI.</p>",
+            "image": "https://rudytrnka.com/media/posts/47/ComfyUI_00451_.png",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Sketch",
+                   "Print Design",
+                   "AI Image"
+            ],
+            "date_published": "2026-07-24T00:39:07-04:00",
+            "date_modified": "2026-07-24T00:39:59-04:00"
+        },
+        {
             "id": "https://rudytrnka.com/never-forgotten.html",
             "url": "https://rudytrnka.com/never-forgotten.html",
             "title": "Never forgotten",
@@ -174,24 +192,6 @@
             ],
             "date_published": "2026-07-21T01:24:55-04:00",
             "date_modified": "2026-07-21T01:25:45-04:00"
-        },
-        {
-            "id": "https://rudytrnka.com/bugout-club.html",
-            "url": "https://rudytrnka.com/bugout-club.html",
-            "title": "Bugout Club",
-            "summary": "Just a fun sketch of a character, an odd bug guy that&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01305_.png\" data-size=\"1328x1328\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01305_-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/36/gallery/scan0011.jpg\" data-size=\"954x1937\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/36/gallery/scan0011-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1559\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01304_.png\" data-size=\"1328x1328\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01304_-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01324_.png\" data-size=\"1328x1328\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01324_-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01332_.png\" data-size=\"1328x1328\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01332_-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01338_.png\" data-size=\"1328x1328\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/36/gallery/Qwen_Edit_2511_01338_-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>\n<p>Just a fun sketch of a character, an odd bug guy that everytime I see him I think he is standing outside a club. So given how I always see him, I had to use AI and put him outside a club surrounded by people trying to get into the club. </p>",
-            "image": "https://rudytrnka.com/media/posts/36/Qwen_Edit_2511_01338_.png",
-            "author": {
-                "name": "Rudy"
-            },
-            "tags": [
-                   "Sketch",
-                   "Rough Sketch",
-                   "AI Image"
-            ],
-            "date_published": "2026-07-19T03:54:34-04:00",
-            "date_modified": "2026-07-20T02:45:23-04:00"
         }
     ]
 }
