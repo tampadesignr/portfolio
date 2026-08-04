@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://rudytrnka.com/hockey-team-collage.html",
+            "url": "https://rudytrnka.com/hockey-team-collage.html",
+            "title": "Hockey Team Collage",
+            "summary": "This was a drawing for a friend that was a wedding present&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/55/gallery/Qwen_Edit_2511_00907_.png\" data-size=\"1440x1016\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/55/gallery/Qwen_Edit_2511_00907_-thumbnail.png\" alt=\"\" width=\"768\" height=\"542\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/55/gallery/Islander-fan-dream-lg.jpg\" data-size=\"800x567\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/55/gallery/Islander-fan-dream-lg-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"544\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/55/gallery/Qwen_Edit_2511_00906_.png\" data-size=\"1440x1016\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/55/gallery/Qwen_Edit_2511_00906_-thumbnail.png\" alt=\"\" width=\"768\" height=\"542\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/55/gallery/Qwen_Edit_2511_00905_.png\" data-size=\"1440x1016\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/55/gallery/Qwen_Edit_2511_00905_-thumbnail.png\" alt=\"\" width=\"768\" height=\"542\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/55/gallery/Qwen_Edit_2511_00902_.png\" data-size=\"1440x1016\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/55/gallery/Qwen_Edit_2511_00902_-thumbnail.png\" alt=\"\" width=\"768\" height=\"542\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/55/gallery/Qwen_Edit_2511_00900_.png\" data-size=\"1440x1016\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/55/gallery/Qwen_Edit_2511_00900_-thumbnail.png\" alt=\"\" width=\"768\" height=\"542\"></a></figure>\n</div></div>\n<p>This was a drawing for a friend that was a wedding present for an Islander Hockey fan. I used the center player as a focal to bend the reality around the scene to capture a few iconic type hockey scenes in one perspective. Because the perspectives are skewed around the center player holding the Stanley Cup it was interesting to see how AI would deal with picture.</p>",
+            "image": "https://rudytrnka.com/media/posts/55/Qwen_Edit_2511_00897_.png",
+            "author": {
+                "name": "Rudy"
+            },
+            "tags": [
+                   "Sketch",
+                   "Fine Art",
+                   "Colored Pencil",
+                   "AI Image"
+            ],
+            "date_published": "2026-08-03T22:04:59-04:00",
+            "date_modified": "2026-08-03T22:44:35-04:00"
+        },
+        {
             "id": "https://rudytrnka.com/girl-resting-on-chair.html",
             "url": "https://rudytrnka.com/girl-resting-on-chair.html",
             "title": "Girl Resting on Chair",
@@ -170,23 +189,6 @@
             ],
             "date_published": "2026-07-23T22:29:40-04:00",
             "date_modified": "2026-07-25T16:07:43-04:00"
-        },
-        {
-            "id": "https://rudytrnka.com/beauty-of-emptiness.html",
-            "url": "https://rudytrnka.com/beauty-of-emptiness.html",
-            "title": "Beauty of Emptiness",
-            "summary": "This fine art painting is my interpretation of the Japanese concept of&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/45/gallery/Qwen_Edit_2511_01669_.png\" data-size=\"1328x1328\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/45/gallery/Qwen_Edit_2511_01669_-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/45/gallery/Qwen_Edit_2511_00820_.png\" data-size=\"1024x1024\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/45/gallery/Qwen_Edit_2511_00820_-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://rudytrnka.com/media/posts/45/gallery/scan0013-460x240.jpg\" data-size=\"460x240\"><img loading=\"lazy\" src=\"https://rudytrnka.com/media/posts/45/gallery/scan0013-460x240-thumbnail.jpg\" alt=\"\" width=\"460\" height=\"240\"></a></figure>\n</div></div>\n<p>This fine art painting is my interpretation of the Japanese concept of \"<strong>Ma</strong>\" or \"<strong>Yohaku no bi</strong> \". The concept is basically leaving open space for the mind to roam free. I used the the general structure of a butterfly to convey this concept in a self refection portrait. The butterfly represents me as a layered complex form that is one with nature. The butterfly is actually formless only a hint of its form is seen and the mind makes connections. The void of open space sphere represents the open mind needed for this balance to exist. The AI images where fun to play with placing the artwork in different enviroments.</p>",
-            "image": "https://rudytrnka.com/media/posts/45/Qwen_Edit_2511_01669_.png",
-            "author": {
-                "name": "Rudy"
-            },
-            "tags": [
-                   "Fine Art",
-                   "AI Image"
-            ],
-            "date_published": "2026-07-23T21:14:06-04:00",
-            "date_modified": "2026-07-23T21:17:29-04:00"
         }
     ]
 }
